@@ -19,18 +19,14 @@ Modding notes for Cyberpunk 2077
 
 ### Core level 2
 
-- [Custom Level Cap][]  
-  _Change the level cap and starting attributes_  
-  CET, NativeSettings UI
-- [Fast Travel Anywhere][]  
-  _Click and hold any map marker to travel there_  
-  CET
-- [Unequip Mods][]  
-  _Allows unequipping weapon and clothing mods in the inventory_
-  RedScript
-- [Wardrobe Anywhere][]
-  _Access the wardrobe anywhere with a CET hotkey_
-  CET
+- [Custom Level Cap][] - _Change the level cap and starting attributes_  
+  Requires: CET, NativeSettings UI
+- [Fast Travel Anywhere][] - _Click and hold any map marker to travel there_  
+  Requires: CET
+- [Unequip Mods][] - _Allows unequipping weapon and clothing mods in the inventory_
+  Requires: RedScript
+- [Wardrobe Anywhere][] - _Access the wardrobe anywhere with a CET hotkey_
+  Requires: CET
 
 ### Photo mode mods
 
