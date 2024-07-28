@@ -33,31 +33,6 @@ Modding notes for Cyberpunk 2077
 - [Real Vendor Names][] - _Display the actual vendor names for shop map markers_ (RedScript)
 - [Simple Flashlight][] - (CET, NSU)
 
-### Apparel mods
-
-#### Prerequisites
-
-- [Equipment EX][] aka EQEX - _Outfit manager and layered clothing slots_ (ArchiveXL, TweakXL, RED4Ext, RedScript, Codeware)
-- [Virtual Atelier][] aka Atelier - _Buy clothes via virtual internet shops ingame_ (ArchiveXL, Codeware, ModSettings, RED4Ext, RedScript)
-
-#### Adshield
-
-- [Adshield store][] _Adshield's virtual store. See description for supported mods_
-
-#### Alvarix
-
-- [Alvarix Store][] _Alvarix' virtual store. See description for supported mods_
-
-> NOTE: The supported mods are listed in the description.
-> Alternatively, browse through [Alvarix' mod list][] for visual previews.
-
-#### Nola Dreamer & Aquelyras
-
-- [Nola Dreamer and Aquelyras Store][] _ _
-
-> NOTE: See the "Mods requiring this file" section to find the supported mods. 
-> Alternatively, browse through [Nola Dreamer's mod list][] for visual previews.
-
 ### Photo mode mods
 
 - [Appearance Menu Mod] aka AMM - _Feature-rich photo mode helper with props and actors_ (CET, Codeware)
@@ -70,6 +45,61 @@ Modding notes for Cyberpunk 2077
 - [Angy Pose Pack][] - _Collection of poses for FemV_ (ArchiveXL, TweakXL)
 - [Zwei Custom Poses - Core][] - _Collection of general purpose poses_ (PMU)
 - [Zwei Custom Poses - Fashion][] - _Collection of poses for FemV_ (PMU)
+
+### Apparel mods
+
+#### Prerequisites
+
+- [Equipment EX][] aka EQEX - _Outfit manager and layered clothing slots_ (ArchiveXL, TweakXL, RED4Ext, RedScript, Codeware)
+- [Virtual Atelier][] aka Atelier - _Buy clothes via virtual internet shops ingame_ (ArchiveXL, Codeware, ModSettings, RED4Ext, RedScript)
+
+> NOTE: For all atelier mods, the easiest way to see which mods are supported
+is to browse through the author's mod list. This has the added benefit of showing
+visual previews.
+
+#### Adshield
+
+- [Adshield store][]
+- [Adshield's mod list][] 
+
+#### Alvarix
+
+- [Alvarix Store][]
+- [Alvarix' mod list][] 
+
+#### Nola Dreamer & Aquelyras
+
+- [Nola Dreamer Store][]
+- [Nola Dreamer and Aquelyras Store][] 
+- [Nola Dreamer and Veegee Store][]
+- [Nola Dreamer's mod list][]
+
+#### BeanCup
+
+- [The Bean Cup Store][] _Glasses_
+- [The Bean Trunk Store][] _Clothing_
+- [The Bean Box Store][] _Accessories and Jewelry_
+- [BeanieBBY's mod list][]
+
+#### Standalone
+
+- [Atelier for Flash Posers][]
+
+### Vehicle Mods
+
+#### Prerequisites
+
+- [Virtual Car Dealer][] - _Enables buying vehicles via an ingame browser page_ (Codeware, ArchiveXL, TweakXL, RED4Ext, RedScript)
+
+#### Vehicles
+
+- [Arcadia][]
+- [Ferrari Daytona SP3][]
+- [Audi R8][]
+- [Pagani Zonda Cinque][]
+- [Porsche 918 Spyder][]
+- [Mercedes One AMG][]
+- [Ford Mustang GT][]
 
 ## Knowlege base
 
@@ -120,7 +150,23 @@ Issue: the mod does not want to be loaded from Vortex' `Cyberpunk 2077/mods` fol
 [Virtual Atelier]: https://www.nexusmods.com/cyberpunk2077/mods/2987
 [Alvarix Store]: https://www.nexusmods.com/cyberpunk2077/mods/4602
 [Adshield Store]: https://www.nexusmods.com/cyberpunk2077/mods/8452
-[Nola Dreamer And Aquelyras]: https://www.nexusmods.com/cyberpunk2077/mods/8702
-[Nola Dreamer's mod list]: https://next.nexusmods.com/profile/NolaDreamer/mods?gameId=3333
+[Nola Dreamer And Aquelyras Store]: https://www.nexusmods.com/cyberpunk2077/mods/8702
+[Nola Dreamer and Veegee Store]: https://www.nexusmods.com/cyberpunk2077/mods/11964
+[Nola Dreamer Store]: https://www.nexusmods.com/cyberpunk2077/mods/5114
+[Nola Dreamer's mod list]: https://next.nexusmods.com/profile/NolaDreamer/mods?gameId=33331
 [Alvarix' mod list]: https://next.nexusmods.com/profile/AlvarixPT/mods?gameId=3333
+[Adshield's mod list]: https://next.nexusmods.com/profile/Adshield/mods?gameId=3333
+[Atelier for Flash Posers]: https://www.nexusmods.com/cyberpunk2077/mods/8886
+[The Bean Cup Store]: https://www.nexusmods.com/cyberpunk2077/mods/12223
+[The Bean Box Store]: https://www.nexusmods.com/cyberpunk2077/mods/12765
+[The Bean Trunk Store]: https://www.nexusmods.com/cyberpunk2077/mods/12836
+[BeanieBBY's mod list]: https://next.nexusmods.com/profile/beaniebby/mods?gameId=3333
 
+[Virtual Car Dealer]: https://www.nexusmods.com/cyberpunk2077/mods/4454
+[Arcadia]: https://www.nexusmods.com/cyberpunk2077/mods/3403
+[Ferrari Daytona SP3]: https://www.nexusmods.com/cyberpunk2077/mods/13465
+[Audi R8]: https://www.nexusmods.com/cyberpunk2077/mods/8827
+[Pagani Zonda Cinque]: https://www.nexusmods.com/cyberpunk2077/mods/8795
+[Porsche 918 Spyder]: https://www.nexusmods.com/cyberpunk2077/mods/9125
+[Mercedes One AMG]: https://www.nexusmods.com/cyberpunk2077/mods/13502
+[Ford Mustang GT]: https://www.nexusmods.com/cyberpunk2077/mods/13248
