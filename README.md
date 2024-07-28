@@ -34,12 +34,23 @@ These are nice to have to improve aspects of the game.
 - [Unequip Mods][] - _Allows unequipping weapon and clothing mods in the inventory_ (RedScript)
 - [Blur Begone][] - _Removes blur on translucent objects_ (Vanilla)
 - [Hide Read Shards][] - _Removes shards you have read from the world_ (RedScript)
-- [Immersive First Person][] - _Be able to see your body looking down_ (CET)
 - [Missing Persons - Hidden Gems][] - _Gigs to find all hidden gems in the game_ (CET, NSU, RedScript)
 - [Real Vendor Names][] - _Display the actual vendor names for shop map markers_ (RedScript)
 - [Simple Flashlight][] - (CET, NSU)
 
+### First Person fixes
+
+First person view is pretty limited in the game. These mods make it possible to look down,
+and see your body as you would in real life.
+
+- [Immersive First Person][] - _Be able to see your body looking down_ (CET)
+- [First Person Clothing fix][] - _Fix some first person view issues_
+- [First Person Nude Fix][] _Fix breast in first person_
+
 ### Photo mode mods
+
+Photo mode is a great tool to capture game moments, so if you start spending more time in there
+you may want to expand what you can do in there.
 
 - [Appearance Menu Mod] aka AMM - _Feature-rich photo mode helper with props and actors_ (CET, Codeware)
 - [Photo Mode Unlocker][] aka PMU - _Removes restrictions and adds new features_ (CET, ArchiveXL, TweakXL)
@@ -52,6 +63,45 @@ These are nice to have to improve aspects of the game.
 - [Angy Pose Pack][] - _Collection of poses for FemV_ (ArchiveXL, TweakXL)
 - [Zwei Custom Poses - Core][] - _Collection of general purpose poses_ (PMU)
 - [Zwei Custom Poses - Fashion][] - _Collection of poses for FemV_ (PMU)
+
+### Body mods
+
+> NOTE: My personal preference is an improved vanilla body, so these mods
+> are focused on this.
+
+#### Body and skin
+
+- [Unique Rig for V](https://www.nexusmods.com/cyberpunk2077/mods/3725) - _Allows a different body shape for V_
+- [Morph Texture Removal](https://www.nexusmods.com/cyberpunk2077/mods/2419) - _Fixes head texture morphing_
+- [Custom Breast Jiggle Physics](https://www.nexusmods.com/cyberpunk2077/mods/3665) - _Improved breast movement_
+- [Ava - Body - Core](https://www.nexusmods.com/cyberpunk2077/mods/1873)
+- [Ava - Body - Option: Complexions](https://www.nexusmods.com/cyberpunk2077/mods/1873?tab=files)
+- [Ava - Body - Option: Optional Better body with abs, 4K](https://www.nexusmods.com/cyberpunk2077/mods/1873?tab=files)
+- [Ava - Body - Option: Microdetails](https://www.nexusmods.com/cyberpunk2077/mods/1873?tab=files)
+- [Ava - Skins - Core](https://www.nexusmods.com/cyberpunk2077/mods/11937)
+- [Ava - Skins - Option: Complexions](https://www.nexusmods.com/cyberpunk2077/mods/11937?tab=files)
+- [Ava - Skins - Option: Microdetails](https://www.nexusmods.com/cyberpunk2077/mods/11937?tab=files)
+- [Ava - Skins - Option: Detailed Female NPCs](https://www.nexusmods.com/cyberpunk2077/mods/11937?tab=files)
+
+#### Eyes
+
+- [Unique Eyes Core](https://www.nexusmods.com/cyberpunk2077/mods/1937) - _Core mod for loading custom eye textures_
+- [Kala's Eyes](https://www.nexusmods.com/cyberpunk2077/mods/3242) - _Selection of eye textures_
+
+#### Hair
+
+> NOTE: Modding hair in CyberPunk is somewhat clunky. There is a fixed amount of hair slots, so 
+> hair modders choose which slots they want their hair to replace. It's important to keep track 
+> of which mods use which slots to avoid conflicts (or at least to get the styles you want).
+
+- [Preem Hair](https://www.nexusmods.com/cyberpunk2077/mods/8223) - _High res texture and more detailed strands_
+- [Wingdeer Hair Collection](https://www.nexusmods.com/cyberpunk2077/mods/6072) - _The single largest selection_
+- [Bayonetta 2](https://www.nexusmods.com/cyberpunk2077/mods/13409) - _Hair style frome the game "Bayonetta"_
+- [Sori Yumi's Hairstyle Collection](https://www.nexusmods.com/cyberpunk2077/mods/2636) - _Selection of hair styles_
+
+If you are a hair aficionado and are familiar with the PHP programming language, have a look 
+at my [hair chooser tool](https://github.com/Mistralys/cyberpunk-hair-chooser). It can load hair styles from 
+your installed mods, and lets you create a custom hair mod by choosing which style to use in which slots.
 
 ### Apparel mods
 
@@ -153,6 +203,8 @@ Issue: the mod does not want to be loaded from Vortex' `Cyberpunk 2077/mods` fol
 [Angy Pose Pack]: https://www.nexusmods.com/cyberpunk2077/mods/6871
 [Zwei Custom Poses - Core]: https://www.nexusmods.com/cyberpunk2077/mods/7165
 [Zwei Custom Poses - Fashion]: https://www.nexusmods.com/cyberpunk2077/mods/7156
+[First Person Clothing Fix]: https://www.nexusmods.com/cyberpunk2077/mods/4862
+[First Person Nude Fix]: https://www.nexusmods.com/cyberpunk2077/mods/3620
 
 [Virtual Atelier]: https://www.nexusmods.com/cyberpunk2077/mods/2987
 [Alvarix Store]: https://www.nexusmods.com/cyberpunk2077/mods/4602
