@@ -35,7 +35,7 @@ sorted loosely by importance and usage area.
 - [Archive XL][] - _Load custom resources without touching original game files_
 - [Tweak XL][] - _TweakDB modifications loader and script extensions_
 - [Mod Settings][] - _Mod settings menu for RedScript mods_
-- [Native Settings UI][] aka `NSU` - _Mod setting menus via the native UI_ (`CET`)
+- [Native Settings UI][] aka `NSU` - _Mod setting menus via the native UI_ `CET`
 - [CookedApps Nulled][] - _Enable modding of NPC and Vehicle mesh files_
 - [Material and Texture override][] - _Enables loading new materials_
 
@@ -43,45 +43,45 @@ sorted loosely by importance and usage area.
 
 These are not required by any mods, but I consider them essential for any playthrough.
 
-- [Custom Level Cap][] - _Change the level cap and starting attributes_ (`CET`, `NSU`)
-- [Fast Travel Anywhere][] - _Click and hold any map marker to travel there_ (`CET`)
+- [Custom Level Cap][] - _Change the level cap and starting attributes_ `CET`, `NSU`
+- [Fast Travel Anywhere][] - _Click and hold any map marker to travel there_ `CET`
 
 ### Core level 3
 
 These are nice to have to improve aspects of the game.
 
-- [Unequip Mods][] - _Allows unequipping weapon and clothing mods in the inventory_ (`RedSC`)
-- [Blur Begone][] - _Removes blur on translucent objects_ (`Vanilla`)
-- [Hide Read Shards][] - _Removes shards you have read from the world_ (`RedSC`)
-- [Missing Persons - Hidden Gems][] - _Adds gigs to find all hidden gems in the game_ (`CET`, `NSU`, `RedSC`)
-- [Real Vendor Names][] - _Display the actual vendor names for shop map markers_ (`RedSC`)
-- [Simple Flashlight][] - (`CET`, `NSU`)
+- [Unequip Mods][] - _Allows unequipping weapon and clothing mods in the inventory_ `RedSC`
+- [Blur Begone][] - _Removes blur on translucent objects_ `Vanilla`
+- [Hide Read Shards][] - _Removes shards you have read from the world_ `RedSC`
+- [Missing Persons - Hidden Gems][] - _Adds gigs to find all hidden gems in the game_ `CET` `NSU` `RedSC`
+- [Real Vendor Names][] - _Display the actual vendor names for shop map markers_ `RedSC`
+- [Simple Flashlight][] - `CET`, `NSU`
 
 ### First Person fixes
 
 First person view is pretty limited in the game. These mods make it possible to look down,
 and see your body as you would in real life.
 
-- [Immersive First Person][] - _Be able to see your body looking down_ (`CET`)
-- [First Person Clothing fix][] - _Fix some first person view issues_ (`Vanilla`)
-- [First Person Nude Fix][] _Fix breast in first person_ (`Vanilla`)
+- [Immersive First Person][] - _Be able to see your body looking down_ `CET`
+- [First Person Clothing fix][] - _Fix some first person view issues_ `Vanilla`
+- [First Person Nude Fix][] _Fix breast in first person_ `Vanilla`
 
 ### Photo mode mods
 
 Photo mode is a great tool to capture game moments, so if you start spending more time in there
 you may want to expand what you can do in there.
 
-- [Appearance Menu Mod] aka AMM - _Feature-rich photo mode helper with props and actors_ (`CET`, `Codeware`)
-- [Photo Mode Unlocker][] aka PMU - _Removes restrictions and adds new features_ (`CET`, `ArchiveXL`, `TweakXL`)
-- [Wardrobe Anywhere][] - _Access the wardrobe anywhere with a custom hotkey_ (`CET`)
-- [Character Customization Anywhere][] - _Open the character customization anywhere with a custom hotkey_ (`CET`)
-- [Facial Expressions Pack][] - _Adds lots of new facial expressions_ (`TweakXL`)
-- [Portrait Enhancer][] - _Adds camera presets for portraits_ (`Vanilla`)
-- [CharLi][] - _Character lighting suite_ (`CET`]
-- [Action Pose Pack][] - _Adds some action poses for FemV_ (`PMU`, `RedEX`)
-- [Angy Pose Pack][] - _Collection of poses for FemV_ (`ArchiveXL`, `TweakXL`)
-- [Zwei Custom Poses - Core][] - _Collection of general purpose poses_ (`PMU`)
-- [Zwei Custom Poses - Fashion][] - _Collection of poses for FemV_ (`PMU`)
+- [Appearance Menu Mod] aka AMM - _Feature-rich photo mode helper with props and actors_ `CET` `Codeware`
+- [Photo Mode Unlocker][] aka PMU - _Removes restrictions and adds new features_ `CET` `ArchiveXL` `TweakXL`
+- [Wardrobe Anywhere][] - _Access the wardrobe anywhere with a custom hotkey_ `CET`
+- [Character Customization Anywhere][] - _Open the character customization anywhere with a custom hotkey_ `CET`
+- [Facial Expressions Pack][] - _Adds lots of new facial expressions_ `TweakXL`
+- [Portrait Enhancer][] - _Adds camera presets for portraits_ `Vanilla`
+- [CharLi][] - _Character lighting suite_ `CET`
+- [Action Pose Pack][] - _Adds some action poses for FemV_ `PMU` `RedEX`
+- [Angy Pose Pack][] - _Collection of poses for FemV_ `ArchiveXL` `TweakXL`
+- [Zwei Custom Poses - Core][] - _Collection of general purpose poses_ `PMU`
+- [Zwei Custom Poses - Fashion][] - _Collection of poses for FemV_ `PMU`
 
 ### Body mods
 
@@ -90,24 +90,24 @@ you may want to expand what you can do in there.
 
 #### Body and skin
 
-- [Unique Rig for V](https://www.nexusmods.com/cyberpunk2077/mods/3725) - _Allows a different body shape for V_ (`Vanilla`)
-- [Morph Texture Removal](https://www.nexusmods.com/cyberpunk2077/mods/2419) - _Fixes head texture morphing_ (`Vanilla`)
-- [Custom Breast Jiggle Physics](https://www.nexusmods.com/cyberpunk2077/mods/3665) - _Improved breast movement_ (`Vanilla`)
-- [Ava - Body - Core](https://www.nexusmods.com/cyberpunk2077/mods/1873) - _Core body texture set_ (`Vanilla`)
-- [Ava - Body - Option: Complexions](https://www.nexusmods.com/cyberpunk2077/mods/1873?tab=files) - _Complexion textures_ (`Vanilla`)
-- [Ava - Body - Option: Optional Better body with abs, 4K](https://www.nexusmods.com/cyberpunk2077/mods/1873?tab=files) - _Body texture with abs_ (`Vanilla`)
-- [Ava - Body - Option: Microdetails](https://www.nexusmods.com/cyberpunk2077/mods/1873?tab=files) - _Better body details_ (`Vanilla`)
-- [Ava - Skins - Core](https://www.nexusmods.com/cyberpunk2077/mods/11937) - _Core skin textures_ (`Vanilla`)
-- [Ava - Skins - Option: Complexions](https://www.nexusmods.com/cyberpunk2077/mods/11937?tab=files) - _Complexion textures_ (`Vanilla`)
-- [Ava - Skins - Option: Microdetails](https://www.nexusmods.com/cyberpunk2077/mods/11937?tab=files) - _Better skin details_ (`Vanilla`)
-- [Ava - Skins - Option: Detailed Female NPCs](https://www.nexusmods.com/cyberpunk2077/mods/11937?tab=files) - _Apply some skin improvements to female NPCs_ (`Vanilla`)
+- [Unique Rig for V](https://www.nexusmods.com/cyberpunk2077/mods/3725) - _Allows a different body shape for V_ `Vanilla`
+- [Morph Texture Removal](https://www.nexusmods.com/cyberpunk2077/mods/2419) - _Fixes head texture morphing_ `Vanilla`
+- [Custom Breast Jiggle Physics](https://www.nexusmods.com/cyberpunk2077/mods/3665) - _Improved breast movement_ `Vanilla`
+- [Ava - Body - Core](https://www.nexusmods.com/cyberpunk2077/mods/1873) - _Core body texture set_ `Vanilla`
+- [Ava - Body - Option: Complexions](https://www.nexusmods.com/cyberpunk2077/mods/1873?tab=files) - _Complexion textures_ `Vanilla`
+- [Ava - Body - Option: Optional Better body with abs, 4K](https://www.nexusmods.com/cyberpunk2077/mods/1873?tab=files) - _Body texture with abs_ `Vanilla`
+- [Ava - Body - Option: Microdetails](https://www.nexusmods.com/cyberpunk2077/mods/1873?tab=files) - _Better body details_ `Vanilla`
+- [Ava - Skins - Core](https://www.nexusmods.com/cyberpunk2077/mods/11937) - _Core skin textures_ `Vanilla`
+- [Ava - Skins - Option: Complexions](https://www.nexusmods.com/cyberpunk2077/mods/11937?tab=files) - _Complexion textures_ `Vanilla`
+- [Ava - Skins - Option: Microdetails](https://www.nexusmods.com/cyberpunk2077/mods/11937?tab=files) - _Better skin details_ `Vanilla`
+- [Ava - Skins - Option: Detailed Female NPCs](https://www.nexusmods.com/cyberpunk2077/mods/11937?tab=files) - _Apply some skin improvements to female NPCs_ `Vanilla`
 
 > NOTE: Ava's textures are all complementary, and can be used together in this selection.
 
 #### Eyes
 
-- [Unique Eyes Core](https://www.nexusmods.com/cyberpunk2077/mods/1937) - _Core mod for loading custom eye textures_ (`Vanilla`)
-- [Kala's Eyes](https://www.nexusmods.com/cyberpunk2077/mods/3242) - _Selection of eye textures_ (`Vanilla`)
+- [Unique Eyes Core](https://www.nexusmods.com/cyberpunk2077/mods/1937) - _Core mod for loading custom eye textures_ `Vanilla`
+- [Kala's Eyes](https://www.nexusmods.com/cyberpunk2077/mods/3242) - _Selection of eye textures_ `Vanilla`
 
 #### Hair
 
@@ -115,10 +115,10 @@ you may want to expand what you can do in there.
 > hair modders choose which slots they want their hair to replace. It's important to keep track 
 > of which mods use which slots to avoid conflicts (or at least to get the styles you want).
 
-- [Preem Hair](https://www.nexusmods.com/cyberpunk2077/mods/8223) - _High res texture and more detailed strands_ (`Vanilla`)
-- [Wingdeer Hair Collection](https://www.nexusmods.com/cyberpunk2077/mods/6072) - _The single largest selection_ (`Vanilla`)
-- [Bayonetta 2](https://www.nexusmods.com/cyberpunk2077/mods/13409) - _Hair style frome the game "Bayonetta"_ (`Vanilla`)
-- [Sori Yumi's Hairstyle Collection](https://www.nexusmods.com/cyberpunk2077/mods/2636) - _Selection of hair styles_ (`Vanilla`)
+- [Preem Hair](https://www.nexusmods.com/cyberpunk2077/mods/8223) - _High res texture and more detailed strands_ `Vanilla`
+- [Wingdeer Hair Collection](https://www.nexusmods.com/cyberpunk2077/mods/6072) - _The single largest selection_ `Vanilla`
+- [Bayonetta 2](https://www.nexusmods.com/cyberpunk2077/mods/13409) - _Hair style frome the game "Bayonetta"_ `Vanilla`
+- [Sori Yumi's Hairstyle Collection](https://www.nexusmods.com/cyberpunk2077/mods/2636) - _Selection of hair styles_ `Vanilla`
 
 If you are a hair aficionado and are familiar with the PHP programming language, have a look 
 at my [hair chooser tool](https://github.com/Mistralys/cyberpunk-hair-chooser). It can load hair styles from 
@@ -128,8 +128,8 @@ your installed mods, and lets you create a custom hair mod by choosing which sty
 
 #### Prerequisites
 
-- [Equipment EX][] aka `EQEX` - _Outfit manager and layered clothing slots_ (`ArchiveXL`, `TweakXL`, `RedEX`, `RedSC`, `Codeware`)
-- [Virtual Atelier][] aka `VA` - _Buy clothes via virtual internet shops ingame_ (`ArchiveXL`, `C0odeware`, `ModSettings`, `RedEX`, `RedSC`)
+- [Equipment EX][] aka `EQEX` - _Outfit manager and layered clothing slots_ `ArchiveXL` `TweakXL` `RedEX` `RedSC` `Codeware`
+- [Virtual Atelier][] aka `VA` - _Buy clothes via virtual internet shops ingame_ `ArchiveXL` `Codeware` `ModSettings` `RedEX` `RedSC`
 
 > NOTE: For all atelier mods, the easiest way to see which mods are supported
 is to browse through the author's mod list. This has the added benefit of showing
@@ -137,51 +137,51 @@ visual previews.
 
 #### Adshield
 
-- [Adshield store][] (`VA`)
+- [Adshield store][] `VA`
 
 See [Adshield's mod list][] for compatible mods.
 
 #### Alvarix
 
-- [Alvarix Store][] (`VA`)
+- [Alvarix Store][] `VA`
 
 See [Alvarix' mod list][] for compatible mods.
 
 #### Nola Dreamer & Aquelyras
 
-- [Nola Dreamer Store][] (`VA`)
-- [Nola Dreamer and Aquelyras Store][] (`VA`)
-- [Nola Dreamer and Veegee Store][] (`VA`)
+- [Nola Dreamer Store][] `VA`
+- [Nola Dreamer and Aquelyras Store][] `VA`
+- [Nola Dreamer and Veegee Store][] `VA`
 
 See [Nola Dreamer's mod list][] for compatible mods.
 
 #### BeanCup
 
-- [The Bean Cup Store][] - _Glasses_ (`VA`)
-- [The Bean Trunk Store][] - _Clothing_ (`VA`)
-- [The Bean Box Store][] - _Accessories and Jewelry_ (`VA`)
+- [The Bean Cup Store][] - _Glasses_ `VA`
+- [The Bean Trunk Store][] - _Clothing_ `VA`
+- [The Bean Box Store][] - _Accessories and Jewelry_ `VA`
 
 See [BeanieBBY's mod list][] for compatible mods.
 
 #### Standalone
 
-- [Atelier for Flash Posers][] (`VA`)
+- [Atelier for Flash Posers][] `VA`
 
 ### Vehicle Mods
 
 #### Prerequisites
 
-- [Virtual Car Dealer][] - _Enables buying vehicles via an ingame browser page_ (`Codeware`, `ArchiveXL`, `TweakXL`, `RedEX`, `RedSC`)
+- [Virtual Car Dealer][] - _Enables buying vehicles via an ingame browser page_ `Codeware` `ArchiveXL` `TweakXL` `RedEX` `RedSC`
 
 #### Vehicles
 
-- [Arcadia][] (`VCD`)
-- [Ferrari Daytona SP3][] (`VCD`)
-- [Audi R8][] (`VCD`)
-- [Pagani Zonda Cinque][] (`VCD`)
-- [Porsche 918 Spyder][] (`VCD`)
-- [Mercedes One AMG][] (`VCD`)
-- [Ford Mustang GT][] (`VCD`)
+- [Arcadia][] `VCD`
+- [Ferrari Daytona SP3][] `VCD`
+- [Audi R8][] `VCD`
+- [Pagani Zonda Cinque][] `VCD`
+- [Porsche 918 Spyder][] `VCD`
+- [Mercedes One AMG][] `VCD`
+- [Ford Mustang GT][] `VCD`
 
 ## Knowlege base
 
@@ -204,11 +204,11 @@ Issue: the mod does not want to be loaded from Vortex' `Cyberpunk 2077/mods` fol
 [CookedApps Nulled]: https://www.nexusmods.com/cyberpunk2077/mods/3051
 [CyberEngine Tweaks]: https://www.nexusmods.com/cyberpunk2077/mods/107
 [Material and Texture override]: https://www.nexusmods.com/cyberpunk2077/mods/5266
-[ModSettings]: https://www.nexusmods.com/cyberpunk2077/mods/4885
-[NativeSettingsUI]: https://www.nexusmods.com/cyberpunk2077/mods/3518
+[Mod Settings]: https://www.nexusmods.com/cyberpunk2077/mods/4885
+[Native Settings UI]: https://www.nexusmods.com/cyberpunk2077/mods/3518
 [RED4Ext]: https://www.nexusmods.com/cyberpunk2077/mods/2380
 [RedScript]: https://www.nexusmods.com/cyberpunk2077/mods/1511
-[TweakXL]: https://www.nexusmods.com/cyberpunk2077/mods/4197
+[Tweak XL]: https://www.nexusmods.com/cyberpunk2077/mods/4197
 [Custom Level Cap]: https://www.nexusmods.com/cyberpunk2077/mods/2909
 [Fast Travel Anywhere]: https://www.nexusmods.com/cyberpunk2077/mods/1943
 [Photo Mode Unlocker]: https://www.nexusmods.com/cyberpunk2077/mods/4319
