@@ -27,7 +27,6 @@ Modding notes for Cyberpunk 2077
 ### Core level 3
 
 - [Blur Begone][] - _Removes blur on translucent objects_ (Vanilla)
-- [Character Customization Anywhere][] - _Open the character customization anywhere with a custom hotkey_ (CET)
 - [Hide Read Shards][] - _Removes shards you have read from the world_ (RedScript)
 - [Immersive First Person][] - _Be able to see your body looking down_ (CET)
 - [Missing Persons - Hidden Gems][] - _Gigs to find all hidden gems in the game_ (CET, NSU, RedScript)
@@ -36,12 +35,41 @@ Modding notes for Cyberpunk 2077
 
 ### Apparel mods
 
-- [Equipment EX] aka EQEX - _Outfit manager and layered clothing slots_ (ArchiveXL, TweakXL, RED4Ext, RedScript, Codeware)
+#### Prerequisites
+
+- [Equipment EX][] aka EQEX - _Outfit manager and layered clothing slots_ (ArchiveXL, TweakXL, RED4Ext, RedScript, Codeware)
+- [Virtual Atelier][] aka Atelier - _Buy clothes via virtual internet shops ingame_ (ArchiveXL, Codeware, ModSettings, RED4Ext, RedScript)
+
+#### Adshield
+
+- [Adshield store][] _Adshield's virtual store. See description for supported mods_
+
+#### Alvarix
+
+- [Alvarix Store][] _Alvarix' virtual store. See description for supported mods_
+
+> NOTE: The supported mods are listed in the description.
+> Alternatively, browse through [Alvarix' mod list][] for visual previews.
+
+#### Nola Dreamer & Aquelyras
+
+- [Nola Dreamer and Aquelyras Store][] _ _
+
+> NOTE: See the "Mods requiring this file" section to find the supported mods. 
+> Alternatively, browse through [Nola Dreamer's mod list][] for visual previews.
 
 ### Photo mode mods
 
 - [Appearance Menu Mod] aka AMM - _Feature-rich photo mode helper with props and actors_ (CET, Codeware)
-- [Photo Mode Unlocker][] aka PMU - _Removes restrictions and adds new features_ (ArchiveXL, CET, TweakXL)
+- [Photo Mode Unlocker][] aka PMU - _Removes restrictions and adds new features_ (CET, ArchiveXL, TweakXL)
+- [Character Customization Anywhere][] - _Open the character customization anywhere with a custom hotkey_ (CET)
+- [Facial Expressions Pack][] - _Adds lots of new facial expressions_ (TweakXL)
+- [Portrait Enhancer][] - _Adds camera presets for portraits_ (Vanilla)
+- [CharLi][] - _Character lighting suite_ (CET]
+- [Action Pose Pack][] - _Adds some action poses for FemV_ (PMU, RED4Ext)
+- [Angy Pose Pack][] - _Collection of poses for FemV_ (ArchiveXL, TweakXL)
+- [Zwei Custom Poses - Core][] - _Collection of general purpose poses_ (PMU)
+- [Zwei Custom Poses - Fashion][] - _Collection of poses for FemV_ (PMU)
 
 ## Knowlege base
 
@@ -81,3 +109,18 @@ Issue: the mod does not want to be loaded from Vortex' `Cyberpunk 2077/mods` fol
 [Real Vendor Names]: https://www.nexusmods.com/cyberpunk2077/mods/4941
 [Simple Flashlight]: https://www.nexusmods.com/cyberpunk2077/mods/2913
 [Missing Persons - Hidden Gems]: https://www.nexusmods.com/cyberpunk2077/mods/5058
+[Facial Expressions Pack]: https://www.nexusmods.com/cyberpunk2077/mods/7912
+[Portrait Enhancer]: https://www.nexusmods.com/cyberpunk2077/mods/8237
+[CharLi]: https://www.nexusmods.com/cyberpunk2077/mods/8176
+[Action Pose Pack]: https://www.nexusmods.com/cyberpunk2077/mods/8698
+[Angy Pose Pack]: https://www.nexusmods.com/cyberpunk2077/mods/6871
+[Zwei Custom Poses - Core]: https://www.nexusmods.com/cyberpunk2077/mods/7165
+[Zwei Custom Poses - Fashion]: https://www.nexusmods.com/cyberpunk2077/mods/7156
+
+[Virtual Atelier]: https://www.nexusmods.com/cyberpunk2077/mods/2987
+[Alvarix Store]: https://www.nexusmods.com/cyberpunk2077/mods/4602
+[Adshield Store]: https://www.nexusmods.com/cyberpunk2077/mods/8452
+[Nola Dreamer And Aquelyras]: https://www.nexusmods.com/cyberpunk2077/mods/8702
+[Nola Dreamer's mod list]: https://next.nexusmods.com/profile/NolaDreamer/mods?gameId=3333
+[Alvarix' mod list]: https://next.nexusmods.com/profile/AlvarixPT/mods?gameId=3333
+
