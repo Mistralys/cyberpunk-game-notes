@@ -12,21 +12,36 @@ Modding notes for Cyberpunk 2077
 - [CyberEngine Tweaks][] aka CET - _Scripting framework for modders and quality of life fixes_
 - [Material and Texture override][] - _Enables loading new materials_
 - [ModSettings][] - _Mod settings menu for RedScript mods_
-- [NativeSettingsUI][] aka NSU - **CET** _Mod setting menus via the native UI_
+- [NativeSettingsUI][] aka NSU - _Mod setting menus via the native UI_ (CET)
 - [RED4ext][] - _Script extender for REDEngine 4_
 - [RedScript][] - _Script compiler_
 - [TweakXL][] - _TweakDB modifications loader and script extensions_
 
 ### Core level 2
 
-- [Custom Level Cap][] - _Change the level cap and starting attributes_ (CET NSU)
+- [Custom Level Cap][] - _Change the level cap and starting attributes_ (CET, NSU)
 - [Fast Travel Anywhere][] - _Click and hold any map marker to travel there_ (CET)
 - [Unequip Mods][] - _Allows unequipping weapon and clothing mods in the inventory_ (RedScript)
-- [Wardrobe Anywhere][] - _Access the wardrobe anywhere with a CET hotkey_ (CET)
+- [Wardrobe Anywhere][] - _Access the wardrobe anywhere with a custom hotkey_ (CET)
+
+### Core level 3
+
+- [Blur Begone][] - _Removes blur on translucent objects_ (Vanilla)
+- [Character Customization Anywhere][] - _Open the character customization anywhere with a custom hotkey_ (CET)
+- [Hide Read Shards][] - _Removes shards you have read from the world_ (RedScript)
+- [Immersive First Person][] - _Be able to see your body looking down_ (CET)
+- [Missing Persons - Hidden Gems][] - _Gigs to find all hidden gems in the game_ (CET, NSU, RedScript)
+- [Real Vendor Names][] - _Display the actual vendor names for shop map markers_ (RedScript)
+- [Simple Flashlight][] - (CET, NSU)
+
+### Apparel mods
+
+- [Equipment EX] aka EQEX - _Outfit manager and layered clothing slots_ (ArchiveXL, TweakXL, RED4Ext, RedScript, Codeware)
 
 ### Photo mode mods
 
-- [Photo Mode Unlocker][] aka PMU - **ArchiveXL** **CET** **TweakXL** _Removes restrictions and adds new features_
+- [Appearance Menu Mod] aka AMM - _Feature-rich photo mode helper with props and actors_ (CET, Codeware)
+- [Photo Mode Unlocker][] aka PMU - _Removes restrictions and adds new features_ (ArchiveXL, CET, TweakXL)
 
 ## Knowlege base
 
@@ -57,4 +72,12 @@ Issue: the mod does not want to be loaded from Vortex' `Cyberpunk 2077/mods` fol
 [Photo Mode Unlocker]: https://www.nexusmods.com/cyberpunk2077/mods/4319
 [Unequip Mods]: https://www.nexusmods.com/cyberpunk2077/mods/2358
 [Wardrobe Anywhere]: https://www.nexusmods.com/cyberpunk2077/mods/5145
-
+[Appearance Menu Mod]: https://www.nexusmods.com/cyberpunk2077/mods/790
+[Blur Begone]: https://www.nexusmods.com/cyberpunk2077/mods/8105
+[Character Customization Anywhere]: https://www.nexusmods.com/cyberpunk2077/mods/3930
+[Equipment EX]: https://www.nexusmods.com/cyberpunk2077/mods/6945
+[Hide Read Shards]: https://www.nexusmods.com/cyberpunk2077/mods/2820
+[Immersive First Person]: https://www.nexusmods.com/cyberpunk2077/mods/2675
+[Real Vendor Names]: https://www.nexusmods.com/cyberpunk2077/mods/4941
+[Simple Flashlight]: https://www.nexusmods.com/cyberpunk2077/mods/2913
+[Missing Persons - Hidden Gems]: https://www.nexusmods.com/cyberpunk2077/mods/5058
