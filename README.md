@@ -6,26 +6,32 @@ Modding notes for Cyberpunk 2077
 
 ### Core level 1
 
-- [Archive XL][] - _Load custom resources without touching original game files_
-- [Codeware][] - _Script extensions_
-- [CookedApps Nulled][] - _Enable modding of NPC and Vehicle mesh files_
+These are the main mods that many mods requiring advanced scripting rely on,
+sorted loosely by importance and usage area.
+
 - [CyberEngine Tweaks][] aka CET - _Scripting framework for modders and quality of life fixes_
-- [Material and Texture override][] - _Enables loading new materials_
-- [ModSettings][] - _Mod settings menu for RedScript mods_
-- [NativeSettingsUI][] aka NSU - _Mod setting menus via the native UI_ (CET)
 - [RED4ext][] - _Script extender for REDEngine 4_
 - [RedScript][] - _Script compiler_
+- [Codeware][] - _Script extensions_
+- [Archive XL][] - _Load custom resources without touching original game files_
 - [TweakXL][] - _TweakDB modifications loader and script extensions_
+- [ModSettings][] - _Mod settings menu for RedScript mods_
+- [NativeSettingsUI][] aka NSU - _Mod setting menus via the native UI_ (CET)
+- [CookedApps Nulled][] - _Enable modding of NPC and Vehicle mesh files_
+- [Material and Texture override][] - _Enables loading new materials_
 
 ### Core level 2
 
+These are not required by any mods, but I consider them essential for any playthrough.
+
 - [Custom Level Cap][] - _Change the level cap and starting attributes_ (CET, NSU)
 - [Fast Travel Anywhere][] - _Click and hold any map marker to travel there_ (CET)
-- [Unequip Mods][] - _Allows unequipping weapon and clothing mods in the inventory_ (RedScript)
-- [Wardrobe Anywhere][] - _Access the wardrobe anywhere with a custom hotkey_ (CET)
 
 ### Core level 3
 
+These are nice to have to improve aspects of the game.
+
+- [Unequip Mods][] - _Allows unequipping weapon and clothing mods in the inventory_ (RedScript)
 - [Blur Begone][] - _Removes blur on translucent objects_ (Vanilla)
 - [Hide Read Shards][] - _Removes shards you have read from the world_ (RedScript)
 - [Immersive First Person][] - _Be able to see your body looking down_ (CET)
@@ -37,6 +43,7 @@ Modding notes for Cyberpunk 2077
 
 - [Appearance Menu Mod] aka AMM - _Feature-rich photo mode helper with props and actors_ (CET, Codeware)
 - [Photo Mode Unlocker][] aka PMU - _Removes restrictions and adds new features_ (CET, ArchiveXL, TweakXL)
+- [Wardrobe Anywhere][] - _Access the wardrobe anywhere with a custom hotkey_ (CET)
 - [Character Customization Anywhere][] - _Open the character customization anywhere with a custom hotkey_ (CET)
 - [Facial Expressions Pack][] - _Adds lots of new facial expressions_ (TweakXL)
 - [Portrait Enhancer][] - _Adds camera presets for portraits_ (Vanilla)
