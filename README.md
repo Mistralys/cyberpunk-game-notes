@@ -12,14 +12,22 @@ Modding notes for Cyberpunk 2077
 - [CyberEngine Tweaks][] aka CET - _Scripting framework for modders and quality of life fixes_
 - [Material and Texture override][] - _Enables loading new materials_
 - [ModSettings][] - _Mod settings menu for RedScript mods_
-- [NativeSettingsUI][] - CET _Mod setting menus via the native UI_
+- [NativeSettingsUI][] aka NSU - **CET** _Mod setting menus via the native UI_
 - [RED4ext][] - _Script extender for REDEngine 4_
 - [RedScript][] - _Script compiler_
 - [TweakXL][] - _TweakDB modifications loader and script extensions_
 
 ### Core level 2
 
-- [Custom Level Cap][] - CET NativeSettings _Change the level cap and starting attributes_
+- [Custom Level Cap][] _Change the level cap and starting attributes_  
+  CET, NativeSettings UI
+- [Fast Travel Anywhere][] - **CET** _Click and hold any map marker to travel there_
+- [Unequip Mods][] - **RedScript** _Allows unequipping weapon and clothing mods in the inventory_
+- [Wardrobe Anywhere][] - **CET** - _
+
+### Photo mode mods
+
+- [Photo Mode Unlocker][] aka PMU - **ArchiveXL** **CET** **TweakXL** _Removes restrictions and adds new features_
 
 ## Knowlege base
 
@@ -46,3 +54,8 @@ Issue: the mod does not want to be loaded from Vortex' `Cyberpunk 2077/mods` fol
 [RedScript]: https://www.nexusmods.com/cyberpunk2077/mods/1511
 [TweakXL]: https://www.nexusmods.com/cyberpunk2077/mods/4197
 [Custom Level Cap]: https://www.nexusmods.com/cyberpunk2077/mods/2909
+[Fast Travel Anywhere]: https://www.nexusmods.com/cyberpunk2077/mods/1943
+[Photo Mode Unlocker]: https://www.nexusmods.com/cyberpunk2077/mods/4319
+[Unequip Mods]: https://www.nexusmods.com/cyberpunk2077/mods/2358
+[Wardrobe Anywhere]: https://www.nexusmods.com/cyberpunk2077/mods/5145
+
