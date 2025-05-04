@@ -13,6 +13,8 @@ between parentheses. The following markers are used:
 - `CDW`: Requires the Codeware mod.
 - `CET`: Requires CyberEngine Tweaks mod.
 - `EQEX`: Requires the Equipment EX mod.
+- `FemV`: Female V character only.
+- `MaleV`: Male V character only.
 - `NBVM`: Requires the No bags from Vending Machines mod.
 - `NSU`: Requires the Native Settings UI mod.
 - `RedEX`: Requires the RED4Ext mod.
@@ -20,6 +22,7 @@ between parentheses. The following markers are used:
 - `TXL`: Requires the TweakXL mod.
 - `VAT`: Requires the Virtual Atelier mod.
 - `Vanilla`: Has no dependencies beyond the base game (all DLC is implied).
+- `VTK`: _V Texture Kit_ - Body textures for FemV characters.
 
 > NOTE: Markers do not include inherited mods. For example, a mod marked `EQEX` 
 > will not include the mods that Equipment EX itself needs.
@@ -136,6 +139,18 @@ and see your body as you would in real life.
 - [Ava - Skins - Option: Detailed Female NPCs][] - _Apply some skin improvements to female NPCs_ `Vanilla`
 
 > NOTE: Ava's textures are all complementary, and can be used together in this selection.
+
+#### Body mods at a glance
+
+> NOTE: The texture framework used by a body mod is shown in parentheses.
+> Have a look at the [RedModding wiki on texture frameworks][] for more information.
+
+- [Enhanced Big Breasts Body](https://www.nexusmods.com/cyberpunk2077/mods/4654) aka Hyst Body (VTK Framework)
+- [KS Solo Body](https://www.nexusmods.com/cyberpunk2077/mods/4813) (UV Framework)
+- [Lush Body](https://www.nexusmods.com/cyberpunk2077/mods/4901) (UV Framework)
+- [Spawn0 Body](https://www.nexusmods.com/cyberpunk2077/mods/1424) (Spawn0 Framework)
+- [VTK Body](https://www.nexusmods.com/cyberpunk2077/mods/7054) (VTK Framework)
+- [UV Framework](https://www.nexusmods.com/cyberpunk2077/mods/3783)
 
 #### Eyes
 
@@ -320,3 +335,4 @@ Issue: the mod does not want to be loaded from Vortex' `Cyberpunk 2077/mods` fol
 [Porsche 918 Spyder]: https://www.nexusmods.com/cyberpunk2077/mods/9125
 [Mercedes One AMG]: https://www.nexusmods.com/cyberpunk2077/mods/13502
 [Ford Mustang GT]: https://www.nexusmods.com/cyberpunk2077/mods/13248
+[RedModding wiki on texture frameworks]: https://wiki.redmodding.org/cyberpunk-2077-modding/modding-guides/npcs/custom-tattoos-and-scars/converting-between-tattoo-frameworks#the-unique-v-texture-framework
