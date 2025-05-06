@@ -1,7 +1,7 @@
 {
     "game": "cyberpunk2077",
-    "databaseDate": "2025-05-05T21:34:10.000000 Europe/Berlin",
-    "exportDate": "2025-05-05T22:14:07.376114 Europe/Berlin",
+    "databaseDate": "2025-05-06T08:26:15.000000 Europe/Berlin",
+    "exportDate": "2025-05-06T08:34:52.264788 Europe/Berlin",
     "categories": {
         "Appearance": [
             "Appearance Menu Mod",
@@ -36,18 +36,24 @@
             "PMU - Zwei Sitting Set - FemV",
             "Preem Hair",
             "Unique Eyes - Core",
-            "Wingdeer Hair - Commissioner - PHYSICS",
-            "Wingdeer Hair - Daniels - PHYSICS",
-            "Wingdeer Hair - Emma3 - PHYSICS",
-            "Wingdeer Hair - Lee - PHYSICS",
-            "Wingdeer Hair - Manavortex",
-            "Wingdeer Hair - MID LENGTH PACK",
-            "Wingdeer Hair - SHORTY PACK - 1, 30, 35",
-            "Wingdeer Hair - SORCERESS PACK 25-37",
-            "Wingdeer Hair - TARNISHED PACK",
-            "Wingdeer Hair - TIDE UP PACK",
-            "Wingdeer Hair - Valeria - 31 - PHYSICS",
-            "Wingdeer Hair Selection v21.zip"
+            "Wingdeer Hair Selection v21",
+            "ZY - Appearance Change Unlocker (Try again for 2.2)",
+            "ZY - Wingdeer Hair - Commissioner - PHYSICS",
+            "ZY - Wingdeer Hair - Daniels - PHYSICS",
+            "ZY - Wingdeer Hair - Emma3 - PHYSICS",
+            "ZY - Wingdeer Hair - Lee - PHYSICS",
+            "ZY - Wingdeer Hair - Manavortex",
+            "ZY - Wingdeer Hair - MID LENGTH PACK",
+            "ZY - Wingdeer Hair - SHORTY PACK - 1, 30, 35",
+            "ZY - Wingdeer Hair - SORCERESS PACK 25-37",
+            "ZY - Wingdeer Hair - TARNISHED PACK",
+            "ZY - Wingdeer Hair - TIDE UP PACK",
+            "ZY - Wingdeer Hair - Valeria - 31 - PHYSICS",
+            "ZZ - Koralina's 4k Complexion 006 - just freckles (Newer better version available)",
+            "ZZ - Koralina's 4k Complexion Natural Freckled Skin (Using Ava now)",
+            "ZZ - Pepoji PosePack for FemV (Not good)",
+            "ZZ - Preem Skin (Using Ava now)",
+            "ZZ - SCOFIL - Studio Photoshoot (Not so great)"
         ],
         "Armour and Clothing": [
             "Admixon's Kawaii Glasses",
@@ -384,10 +390,22 @@
             "VV0LFDEN - Basic Tees - Fem (Vanilla)",
             "VV0LFDEN - Crowns - Fem Masc - AXL Addition",
             "VV0LFDEN - Zip-Up Dress",
-            "Yevgeniys - Bicep Biomonitor"
+            "Yevgeniys - Bicep Biomonitor",
+            "ZZ - 2nd Amendment Online",
+            "ZZ - All-in-One Jinguji Custom Atelier (Abandoned & Problematic)",
+            "ZZ - Avante Online v1.0",
+            "ZZ - Ded-Zed Online",
+            "ZZ - Hyst - Vanilla body - Celeb Dress XL (Better version by MONSTERaider)",
+            "ZZ - Jinguji Personal Shopping Service - Full Version (Untested)",
+            "ZZ - NC Fashion - Arasaka Sports Wear (Newer reworked version instead)",
+            "ZZ - Saeko's Online",
+            "ZZ - Stylishly Online"
         ],
         "Characters": [
-            "Edgerunners Lucy NPC spawn"
+            "Edgerunners Lucy NPC spawn",
+            "ZY - Portrait Enhancer for Photo Mode (Not needed right now)",
+            "ZZ - CharLi - Character Lighting Suite (AMM is enough)",
+            "ZZ - Photomode Facial Expression Pack (Too many!)"
         ],
         "Gameplay": [
             "Computer Anywhere",
@@ -409,7 +427,8 @@
             "Unlock NightCity",
             "V's Edgerunners Mansion - Apartment DLC",
             "Virtual Car Dealer",
-            "Wardrobe Anywhere"
+            "Wardrobe Anywhere",
+            "ZZ - Hacking Gets Tedious 2.1 - Redscript (Compile failure)"
         ],
         "Modders Resources": [
             "ArchiveXL",
@@ -430,10 +449,14 @@
         "User Interface": [
             "Mod settings",
             "No Intro Videos",
-            "Real Vendor Names"
+            "Real Vendor Names",
+            "ZZ - Better Minimap (Bug: No pathing to target)",
+            "ZZ - Flib's UI Improvements (Not compat. with Missing Persons)",
+            "ZZ - Kiroshi Crowd Scanner (Does not add much)"
         ],
         "Utilities": [
-            "Save Editor"
+            "Save Editor",
+            "ZZ - Respector (Seems dead)"
         ],
         "Vehicles": [
             "2024 Ford Mustang GT",
@@ -479,7 +502,8 @@
             "Appearance Menu Mod",
             "ELF - Pose Pack - The Archive - PM",
             "Fronky's Awkwardia",
-            "Glowy Mai - With orange rims"
+            "Glowy Mai - With orange rims",
+            "ZZ - Photomode Facial Expression Pack (Too many!)"
         ],
         "ArchiveXL": [
             "ArchiveXL",
@@ -802,7 +826,16 @@
             "VV0LFDEN - 0 - Store",
             "VV0LFDEN - Basic Tees - Fem (Vanilla)",
             "VV0LFDEN - Crowns - Fem Masc - AXL Addition",
-            "VV0LFDEN - Zip-Up Dress"
+            "VV0LFDEN - Zip-Up Dress",
+            "ZZ - 2nd Amendment Online",
+            "ZZ - All-in-One Jinguji Custom Atelier (Abandoned & Problematic)",
+            "ZZ - Avante Online v1.0",
+            "ZZ - Ded-Zed Online",
+            "ZZ - Hyst - Vanilla body - Celeb Dress XL (Better version by MONSTERaider)",
+            "ZZ - Jinguji Personal Shopping Service - Full Version (Untested)",
+            "ZZ - NC Fashion - Arasaka Sports Wear (Newer reworked version instead)",
+            "ZZ - Saeko's Online",
+            "ZZ - Stylishly Online"
         ],
         "BetterClothing": [
             "Cooked Apps nulled",
@@ -825,7 +858,10 @@
             "Body - Unique Rig for V Body Shape",
             "Body - VTK Vanilla HD Body for FemV - Body",
             "Body - VTK Vanilla HD Body for FemV - Head",
-            "Preem Hair"
+            "Preem Hair",
+            "ZZ - Koralina's 4k Complexion 006 - just freckles (Newer better version available)",
+            "ZZ - Koralina's 4k Complexion Natural Freckled Skin (Using Ava now)",
+            "ZZ - Preem Skin (Using Ava now)"
         ],
         "BrowserExt": [
             "Browser Extension Framework",
@@ -841,17 +877,20 @@
             "Mercedes One AMG",
             "Virtual Car Dealer"
         ],
-        "Choose": [
-            "Wingdeer Hair - SHORTY PACK - 1, 30, 35"
-        ],
         "ChooseArchive": [
-            "Unique Eyes - Core"
+            "Unique Eyes - Core",
+            "ZY - Wingdeer Hair - SHORTY PACK - 1, 30, 35"
         ],
         "Codeware": [
             "Codeware",
             "PhotoMode-EX",
             "Virtual Atelier",
-            "Virtual Car Dealer"
+            "Virtual Car Dealer",
+            "ZY - Appearance Change Unlocker (Try again for 2.2)",
+            "ZZ - Kiroshi Crowd Scanner (Does not add much)"
+        ],
+        "Console": [
+            "ZZ - Respector (Seems dead)"
         ],
         "CookedApps": [
             "Cooked Apps nulled",
@@ -881,7 +920,8 @@
             "Photo Mode Unlocker",
             "The Community Palette Project",
             "Unequip Mods Mod",
-            "Wardrobe Anywhere"
+            "Wardrobe Anywhere",
+            "ZY - Appearance Change Unlocker (Try again for 2.2)"
         ],
         "Core3": [
             "Appearance Menu Mod",
@@ -1102,6 +1142,9 @@
             "VV0LFDEN - Zip-Up Dress",
             "Yevgeniys - Bicep Biomonitor"
         ],
+        "CustomMod": [
+            "Wingdeer Hair Selection v21"
+        ],
         "EQEX": [
             "Admixon's Kawaii Glasses",
             "Equipment-EX"
@@ -1114,17 +1157,18 @@
         ],
         "Hair": [
             "Preem Hair",
-            "Wingdeer Hair - Commissioner - PHYSICS",
-            "Wingdeer Hair - Daniels - PHYSICS",
-            "Wingdeer Hair - Emma3 - PHYSICS",
-            "Wingdeer Hair - Lee - PHYSICS",
-            "Wingdeer Hair - Manavortex",
-            "Wingdeer Hair - MID LENGTH PACK",
-            "Wingdeer Hair - SHORTY PACK - 1, 30, 35",
-            "Wingdeer Hair - SORCERESS PACK 25-37",
-            "Wingdeer Hair - TARNISHED PACK",
-            "Wingdeer Hair - TIDE UP PACK",
-            "Wingdeer Hair - Valeria - 31 - PHYSICS"
+            "Wingdeer Hair Selection v21",
+            "ZY - Wingdeer Hair - Commissioner - PHYSICS",
+            "ZY - Wingdeer Hair - Daniels - PHYSICS",
+            "ZY - Wingdeer Hair - Emma3 - PHYSICS",
+            "ZY - Wingdeer Hair - Lee - PHYSICS",
+            "ZY - Wingdeer Hair - Manavortex",
+            "ZY - Wingdeer Hair - MID LENGTH PACK",
+            "ZY - Wingdeer Hair - SHORTY PACK - 1, 30, 35",
+            "ZY - Wingdeer Hair - SORCERESS PACK 25-37",
+            "ZY - Wingdeer Hair - TARNISHED PACK",
+            "ZY - Wingdeer Hair - TIDE UP PACK",
+            "ZY - Wingdeer Hair - Valeria - 31 - PHYSICS"
         ],
         "HiRes": [
             "Cyberpunk 2077 HD Reworked Project Ultra Quality - REDmod",
@@ -1146,7 +1190,8 @@
             "High Res NPCs - Rogue Amendiares - Rogue 4K - REDMod",
             "High Res NPCs - Saul Bright - Saul 4K - REDMod",
             "Improved Vegetation LODs",
-            "Trees And Vegetation"
+            "Trees And Vegetation",
+            "ZZ - Koralina's 4k Complexion Natural Freckled Skin (Using Ava now)"
         ],
         "MaleV": [
             "Body - Atlas Male Body",
@@ -1185,7 +1230,8 @@
             "NC Fashion - XRX Latex Gloves",
             "NC Fashion - XRX Leather Jacket",
             "NC Fashion - XRX Onepiece Suit",
-            "NC Fashion - XRX Puffer Jacket"
+            "NC Fashion - XRX Puffer Jacket",
+            "ZZ - NC Fashion - Arasaka Sports Wear (Newer reworked version instead)"
         ],
         "MatEX": [
             "Multi Material Xtender",
@@ -1264,7 +1310,11 @@
             "PMU - Zwei Custom Poses - Boudoir Set",
             "PMU - Zwei Custom Poses - Core Pack",
             "PMU - Zwei Custom Poses - Fashion Set",
-            "PMU - Zwei Sitting Set - FemV"
+            "PMU - Zwei Sitting Set - FemV",
+            "ZY - Portrait Enhancer for Photo Mode (Not needed right now)",
+            "ZZ - CharLi - Character Lighting Suite (AMM is enough)",
+            "ZZ - Photomode Facial Expression Pack (Too many!)",
+            "ZZ - SCOFIL - Studio Photoshoot (Not so great)"
         ],
         "PMU": [
             "ELF - Pose Pack - The Archive - PM",
@@ -1277,7 +1327,8 @@
             "PMU - Zwei Custom Poses - Boudoir Set",
             "PMU - Zwei Custom Poses - Core Pack",
             "PMU - Zwei Custom Poses - Fashion Set",
-            "PMU - Zwei Sitting Set - FemV"
+            "PMU - Zwei Sitting Set - FemV",
+            "ZZ - Pepoji PosePack for FemV (Not good)"
         ],
         "Poses": [
             "ELF - Pose Pack - The Archive - PM",
@@ -1289,7 +1340,10 @@
             "PMU - Zwei Custom Poses - Boudoir Set",
             "PMU - Zwei Custom Poses - Core Pack",
             "PMU - Zwei Custom Poses - Fashion Set",
-            "PMU - Zwei Sitting Set - FemV"
+            "PMU - Zwei Sitting Set - FemV",
+            "ZZ - Pepoji PosePack for FemV (Not good)",
+            "ZZ - Photomode Facial Expression Pack (Too many!)",
+            "ZZ - SCOFIL - Studio Photoshoot (Not so great)"
         ],
         "Quest": [
             "Computer Anywhere",
@@ -1307,7 +1361,8 @@
             "RED4ext",
             "TweakXL",
             "Virtual Atelier",
-            "Virtual Car Dealer"
+            "Virtual Car Dealer",
+            "ZZ - Kiroshi Crowd Scanner (Does not add much)"
         ],
         "RedScript": [
             "Codeware",
@@ -1320,7 +1375,12 @@
             "TweakXL",
             "Unequip Mods Mod",
             "Virtual Atelier",
-            "Virtual Car Dealer"
+            "Virtual Car Dealer",
+            "ZY - Appearance Change Unlocker (Try again for 2.2)",
+            "ZZ - Flib's UI Improvements (Not compat. with Missing Persons)"
+        ],
+        "Redscript": [
+            "ZZ - Kiroshi Crowd Scanner (Does not add much)"
         ],
         "Store": [
             "Adshield - 0 - Store",
@@ -1355,7 +1415,8 @@
             "Veegee - 0 - Jewelry Atelier",
             "Veegee - 0 - Shop",
             "Veegee - 0- Shop 2",
-            "VV0LFDEN - 0 - Store"
+            "VV0LFDEN - 0 - Store",
+            "ZZ - All-in-One Jinguji Custom Atelier (Abandoned & Problematic)"
         ],
         "TexOverride": [
             "Material and Texture Override"
@@ -1370,6 +1431,44 @@
         "UniqueEyes": [
             "Kala's Eyes Standalone",
             "Unique Eyes - Core"
+        ],
+        "Unused": [
+            "ZZ - 2nd Amendment Online",
+            "ZZ - All-in-One Jinguji Custom Atelier (Abandoned & Problematic)",
+            "ZZ - Avante Online v1.0",
+            "ZZ - Better Minimap (Bug: No pathing to target)",
+            "ZZ - CharLi - Character Lighting Suite (AMM is enough)",
+            "ZZ - Ded-Zed Online",
+            "ZZ - Flib's UI Improvements (Not compat. with Missing Persons)",
+            "ZZ - Hacking Gets Tedious 2.1 - Redscript (Compile failure)",
+            "ZZ - Hyst - Vanilla body - Celeb Dress XL (Better version by MONSTERaider)",
+            "ZZ - Jinguji Personal Shopping Service - Full Version (Untested)",
+            "ZZ - Kiroshi Crowd Scanner (Does not add much)",
+            "ZZ - Koralina's 4k Complexion 006 - just freckles (Newer better version available)",
+            "ZZ - Koralina's 4k Complexion Natural Freckled Skin (Using Ava now)",
+            "ZZ - NC Fashion - Arasaka Sports Wear (Newer reworked version instead)",
+            "ZZ - Pepoji PosePack for FemV (Not good)",
+            "ZZ - Photomode Facial Expression Pack (Too many!)",
+            "ZZ - Preem Skin (Using Ava now)",
+            "ZZ - Respector (Seems dead)",
+            "ZZ - Saeko's Online",
+            "ZZ - SCOFIL - Studio Photoshoot (Not so great)",
+            "ZZ - Stylishly Online"
+        ],
+        "UnusedTemp": [
+            "ZY - Appearance Change Unlocker (Try again for 2.2)",
+            "ZY - Portrait Enhancer for Photo Mode (Not needed right now)",
+            "ZY - Wingdeer Hair - Commissioner - PHYSICS",
+            "ZY - Wingdeer Hair - Daniels - PHYSICS",
+            "ZY - Wingdeer Hair - Emma3 - PHYSICS",
+            "ZY - Wingdeer Hair - Lee - PHYSICS",
+            "ZY - Wingdeer Hair - Manavortex",
+            "ZY - Wingdeer Hair - MID LENGTH PACK",
+            "ZY - Wingdeer Hair - SHORTY PACK - 1, 30, 35",
+            "ZY - Wingdeer Hair - SORCERESS PACK 25-37",
+            "ZY - Wingdeer Hair - TARNISHED PACK",
+            "ZY - Wingdeer Hair - TIDE UP PACK",
+            "ZY - Wingdeer Hair - Valeria - 31 - PHYSICS"
         ],
         "Vanilla": [
             "Body - Atlas Male Body",
@@ -1408,7 +1507,8 @@
             "Save Editor",
             "Trees And Vegetation",
             "Unique Eyes - Core",
-            "You look lonely... - Joi Sky Advert"
+            "You look lonely... - Joi Sky Advert",
+            "ZZ - Koralina's 4k Complexion Natural Freckled Skin (Using Ava now)"
         ]
     },
     "mods": {
@@ -6166,124 +6266,16 @@
                 "Core2"
             ]
         },
-        "Wingdeer Hair - Commissioner - PHYSICS": {
-            "taggedName": "Wingdeer Hair - Commissioner - PHYSICS [Hair]",
-            "officialName": "",
-            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
-            "category": "Appearance",
-            "endorsed": "Endorsed",
-            "tags": [
-                "Hair"
-            ]
-        },
-        "Wingdeer Hair - Daniels - PHYSICS": {
-            "taggedName": "Wingdeer Hair - Daniels - PHYSICS [Hair]",
-            "officialName": "",
-            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
-            "category": "Appearance",
-            "endorsed": "Endorsed",
-            "tags": [
-                "Hair"
-            ]
-        },
-        "Wingdeer Hair - Emma3 - PHYSICS": {
-            "taggedName": "Wingdeer Hair - Emma3 - PHYSICS [Hair]",
-            "officialName": "",
-            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
-            "category": "Appearance",
-            "endorsed": "Endorsed",
-            "tags": [
-                "Hair"
-            ]
-        },
-        "Wingdeer Hair - Lee - PHYSICS": {
-            "taggedName": "Wingdeer Hair - Lee - PHYSICS [Hair]",
-            "officialName": "",
-            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
-            "category": "Appearance",
-            "endorsed": "Endorsed",
-            "tags": [
-                "Hair"
-            ]
-        },
-        "Wingdeer Hair - Manavortex": {
-            "taggedName": "Wingdeer Hair - Manavortex [Hair]",
-            "officialName": "",
-            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
-            "category": "Appearance",
-            "endorsed": "Endorsed",
-            "tags": [
-                "Hair"
-            ]
-        },
-        "Wingdeer Hair - MID LENGTH PACK": {
-            "taggedName": "Wingdeer Hair - MID LENGTH PACK [Hair]",
-            "officialName": "",
-            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
-            "category": "Appearance",
-            "endorsed": "Endorsed",
-            "tags": [
-                "Hair"
-            ]
-        },
-        "Wingdeer Hair - SHORTY PACK - 1, 30, 35": {
-            "taggedName": "Wingdeer Hair - SHORTY PACK - 1, 30, 35 [Choose] [Hair]",
-            "officialName": "",
-            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
-            "category": "Appearance",
-            "endorsed": "Endorsed",
-            "tags": [
-                "Choose",
-                "Hair"
-            ]
-        },
-        "Wingdeer Hair - SORCERESS PACK 25-37": {
-            "taggedName": "Wingdeer Hair - SORCERESS PACK 25-37 [Hair]",
-            "officialName": "",
-            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
-            "category": "Appearance",
-            "endorsed": "Endorsed",
-            "tags": [
-                "Hair"
-            ]
-        },
-        "Wingdeer Hair - TARNISHED PACK": {
-            "taggedName": "Wingdeer Hair - TARNISHED PACK [Hair]",
-            "officialName": "",
-            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
-            "category": "Appearance",
-            "endorsed": "Endorsed",
-            "tags": [
-                "Hair"
-            ]
-        },
-        "Wingdeer Hair - TIDE UP PACK": {
-            "taggedName": "Wingdeer Hair - TIDE UP PACK [Hair]",
-            "officialName": "",
-            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
-            "category": "Appearance",
-            "endorsed": "Endorsed",
-            "tags": [
-                "Hair"
-            ]
-        },
-        "Wingdeer Hair - Valeria - 31 - PHYSICS": {
-            "taggedName": "Wingdeer Hair - Valeria - 31 - PHYSICS [Hair]",
-            "officialName": "",
-            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
-            "category": "Appearance",
-            "endorsed": "Endorsed",
-            "tags": [
-                "Hair"
-            ]
-        },
-        "Wingdeer Hair Selection v21.zip": {
-            "taggedName": "Wingdeer Hair Selection v21.zip",
+        "Wingdeer Hair Selection v21": {
+            "taggedName": "Wingdeer Hair Selection v21 [Hair] [CustomMod]",
             "officialName": "",
             "homepage": "",
             "category": "Appearance",
             "endorsed": "Undecided",
-            "tags": []
+            "tags": [
+                "Hair",
+                "CustomMod"
+            ]
         },
         "Yevgeniys - Bicep Biomonitor": {
             "taggedName": "Yevgeniys - Bicep Biomonitor [CPMDB] [FallbackInstaller]",
@@ -6304,6 +6296,391 @@
             "endorsed": "Endorsed",
             "tags": [
                 "Vanilla"
+            ]
+        },
+        "ZY - Appearance Change Unlocker (Try again for 2.2)": {
+            "taggedName": "ZY - Appearance Change Unlocker (Try again for 2.2) [CET] [RedScript] [Codeware] [Core2]  [UnusedTemp]",
+            "officialName": "Appearance Change Unlocker - Character Preset Manager (2.2 Update in Progress)",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/3850/",
+            "category": "Appearance",
+            "endorsed": "Endorsed",
+            "tags": [
+                "RedScript",
+                "Codeware",
+                "Core2",
+                "UnusedTemp"
+            ]
+        },
+        "ZY - Portrait Enhancer for Photo Mode (Not needed right now)": {
+            "taggedName": "ZY - Portrait Enhancer for Photo Mode [Photos] (Not needed right now) [UnusedTemp]",
+            "officialName": "Portrait Enhancer for Photo Mode",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/8237/",
+            "category": "Characters",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Photos",
+                "UnusedTemp"
+            ]
+        },
+        "ZY - Wingdeer Hair - Commissioner - PHYSICS": {
+            "taggedName": "ZY - Wingdeer Hair - Commissioner - PHYSICS [Hair] [UnusedTemp]",
+            "officialName": "",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
+            "category": "Appearance",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Hair",
+                "UnusedTemp"
+            ]
+        },
+        "ZY - Wingdeer Hair - Daniels - PHYSICS": {
+            "taggedName": "ZY - Wingdeer Hair - Daniels - PHYSICS [Hair] [UnusedTemp]",
+            "officialName": "",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
+            "category": "Appearance",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Hair",
+                "UnusedTemp"
+            ]
+        },
+        "ZY - Wingdeer Hair - Emma3 - PHYSICS": {
+            "taggedName": "ZY - Wingdeer Hair - Emma3 - PHYSICS [Hair] [UnusedTemp]",
+            "officialName": "",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
+            "category": "Appearance",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Hair",
+                "UnusedTemp"
+            ]
+        },
+        "ZY - Wingdeer Hair - Lee - PHYSICS": {
+            "taggedName": "ZY - Wingdeer Hair - Lee - PHYSICS [Hair] [UnusedTemp]",
+            "officialName": "",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
+            "category": "Appearance",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Hair",
+                "UnusedTemp"
+            ]
+        },
+        "ZY - Wingdeer Hair - Manavortex": {
+            "taggedName": "ZY - Wingdeer Hair - Manavortex [Hair] [UnusedTemp]",
+            "officialName": "",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
+            "category": "Appearance",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Hair",
+                "UnusedTemp"
+            ]
+        },
+        "ZY - Wingdeer Hair - MID LENGTH PACK": {
+            "taggedName": "ZY - Wingdeer Hair - MID LENGTH PACK [Hair] [UnusedTemp]",
+            "officialName": "",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
+            "category": "Appearance",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Hair",
+                "UnusedTemp"
+            ]
+        },
+        "ZY - Wingdeer Hair - SHORTY PACK - 1, 30, 35": {
+            "taggedName": "ZY - Wingdeer Hair - SHORTY PACK - 1, 30, 35 [ChooseArchive] [Hair] [UnusedTemp]",
+            "officialName": "",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
+            "category": "Appearance",
+            "endorsed": "Endorsed",
+            "tags": [
+                "ChooseArchive",
+                "Hair",
+                "UnusedTemp"
+            ]
+        },
+        "ZY - Wingdeer Hair - SORCERESS PACK 25-37": {
+            "taggedName": "ZY - Wingdeer Hair - SORCERESS PACK 25-37 [Hair] [UnusedTemp]",
+            "officialName": "",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
+            "category": "Appearance",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Hair",
+                "UnusedTemp"
+            ]
+        },
+        "ZY - Wingdeer Hair - TARNISHED PACK": {
+            "taggedName": "ZY - Wingdeer Hair - TARNISHED PACK [Hair] [UnusedTemp]",
+            "officialName": "",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
+            "category": "Appearance",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Hair",
+                "UnusedTemp"
+            ]
+        },
+        "ZY - Wingdeer Hair - TIDE UP PACK": {
+            "taggedName": "ZY - Wingdeer Hair - TIDE UP PACK [Hair] [UnusedTemp]",
+            "officialName": "",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
+            "category": "Appearance",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Hair",
+                "UnusedTemp"
+            ]
+        },
+        "ZY - Wingdeer Hair - Valeria - 31 - PHYSICS": {
+            "taggedName": "ZY - Wingdeer Hair - Valeria - 31 - PHYSICS [Hair] [UnusedTemp]",
+            "officialName": "",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/6072/",
+            "category": "Appearance",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Hair",
+                "UnusedTemp"
+            ]
+        },
+        "ZZ - 2nd Amendment Online": {
+            "taggedName": "ZZ - 2nd Amendment Online [Atelier] [Unused]",
+            "officialName": "2nd Amendment Online - Virtual Atelier (Incl. Legendary Satara and Iconic Weapons)",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/8372/",
+            "category": "Armour and Clothing",
+            "endorsed": "Undecided",
+            "tags": [
+                "Atelier",
+                "Unused"
+            ]
+        },
+        "ZZ - All-in-One Jinguji Custom Atelier (Abandoned & Problematic)": {
+            "taggedName": "ZZ - All-in-One Jinguji Custom Atelier [Store] [Atelier] (Abandoned & Problematic) [Unused]",
+            "officialName": "Jinguji Custom Atelier--Unique Clothes for Fem V",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/2792/",
+            "category": "Armour and Clothing",
+            "endorsed": "Undecided",
+            "tags": [
+                "Store",
+                "Atelier",
+                "Unused"
+            ]
+        },
+        "ZZ - Avante Online v1.0": {
+            "taggedName": "ZZ - Avante Online v1.0 [Atelier] [Unused]",
+            "officialName": "Avante Online - Virtual Atelier",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/8428/",
+            "category": "Armour and Clothing",
+            "endorsed": "Undecided",
+            "tags": [
+                "Atelier",
+                "Unused"
+            ]
+        },
+        "ZZ - Better Minimap (Bug: No pathing to target)": {
+            "taggedName": "ZZ - Better Minimap (Bug: No pathing to target) [Unused]",
+            "officialName": "Better Minimap",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/634/",
+            "category": "User Interface",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Unused"
+            ]
+        },
+        "ZZ - CharLi - Character Lighting Suite (AMM is enough)": {
+            "taggedName": "ZZ - CharLi - Character Lighting Suite [Photos] [CET] (AMM is enough) [Unused]",
+            "officialName": "CharLi - Character Lighting Suite for Photomode",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/8176/",
+            "category": "Characters",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Photos",
+                "Unused"
+            ]
+        },
+        "ZZ - Ded-Zed Online": {
+            "taggedName": "ZZ - Ded-Zed Online [Atelier] [Unused]",
+            "officialName": "Ded-Zed Online - Virtual Atelier",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/8427/",
+            "category": "Armour and Clothing",
+            "endorsed": "Undecided",
+            "tags": [
+                "Atelier",
+                "Unused"
+            ]
+        },
+        "ZZ - Flib's UI Improvements (Not compat. with Missing Persons)": {
+            "taggedName": "ZZ - Flib's UI Improvements [RedScript] (Not compat. with Missing Persons) [Unused]",
+            "officialName": "flib's UI Improvements",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/2729/",
+            "category": "User Interface",
+            "endorsed": "Undecided",
+            "tags": [
+                "RedScript",
+                "Unused"
+            ]
+        },
+        "ZZ - Hacking Gets Tedious 2.1 - Redscript (Compile failure)": {
+            "taggedName": "ZZ - Hacking Gets Tedious 2.1 - Redscript (Compile failure) [Unused]",
+            "officialName": "Hacking Gets Tedious 2.1 - RedMod and Redscript",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/11479/",
+            "category": "Gameplay",
+            "endorsed": "Undecided",
+            "tags": [
+                "Unused"
+            ]
+        },
+        "ZZ - Hyst - Vanilla body - Celeb Dress XL (Better version by MONSTERaider)": {
+            "taggedName": "ZZ - Hyst - Vanilla body - Celeb Dress XL [Atelier] (Better version by MONSTERaider) [Unused]",
+            "officialName": "Celeb Dress - Archive XL",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/5874/",
+            "category": "Armour and Clothing",
+            "endorsed": "Undecided",
+            "tags": [
+                "Atelier",
+                "Unused"
+            ]
+        },
+        "ZZ - Jinguji Personal Shopping Service - Full Version (Untested)": {
+            "taggedName": "ZZ - Jinguji Personal Shopping Service - Full Version [Atelier] (Untested) [Unused]",
+            "officialName": "Jinguji Personal Shopping Service - Virtual Atelier",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/8318/",
+            "category": "Armour and Clothing",
+            "endorsed": "Undecided",
+            "tags": [
+                "Atelier",
+                "Unused"
+            ]
+        },
+        "ZZ - Kiroshi Crowd Scanner (Does not add much)": {
+            "taggedName": "ZZ - Kiroshi Crowd Scanner [Codeware] [Red4Ext] [Redscript] (Does not add much) [Unused]",
+            "officialName": "Kiroshi Opticals - Crowd Scanner",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/1654/",
+            "category": "User Interface",
+            "endorsed": "Undecided",
+            "tags": [
+                "Codeware",
+                "Red4Ext",
+                "Redscript",
+                "Unused"
+            ]
+        },
+        "ZZ - Koralina's 4k Complexion 006 - just freckles (Newer better version available)": {
+            "taggedName": "ZZ - Koralina's 4k Complexion 006 - just freckles [Body] (Newer better version available) [Unused]",
+            "officialName": "",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/2241/",
+            "category": "Appearance",
+            "endorsed": "Undecided",
+            "tags": [
+                "Body",
+                "Unused"
+            ]
+        },
+        "ZZ - Koralina's 4k Complexion Natural Freckled Skin (Using Ava now)": {
+            "taggedName": "ZZ - Koralina's 4k Complexion Natural Freckled Skin [Body] [Vanilla] [HiRes] (Using Ava now) [Unused]",
+            "officialName": "",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/2531/",
+            "category": "Appearance",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Body",
+                "Vanilla",
+                "HiRes",
+                "Unused"
+            ]
+        },
+        "ZZ - NC Fashion - Arasaka Sports Wear (Newer reworked version instead)": {
+            "taggedName": "ZZ - NC Fashion - Arasaka Sports Wear [Atelier] [ManualDL] (Newer reworked version instead) [Unused]",
+            "officialName": "Arasaka Sportswear -Archive XL",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/4664/",
+            "category": "Armour and Clothing",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Atelier",
+                "ManualDL",
+                "Unused"
+            ]
+        },
+        "ZZ - Pepoji PosePack for FemV (Not good)": {
+            "taggedName": "ZZ - Pepoji PosePack for FemV [Poses] [PMU] (Not good) [Unused]",
+            "officialName": "",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/13359/",
+            "category": "Appearance",
+            "endorsed": "Undecided",
+            "tags": [
+                "Poses",
+                "PMU",
+                "Unused"
+            ]
+        },
+        "ZZ - Photomode Facial Expression Pack (Too many!)": {
+            "taggedName": "ZZ - Photomode Facial Expression Pack [Poses] [AMM] [Photos] (Too many!) [Unused]",
+            "officialName": "Photomode Facial Expression Mega Pack - Masc and Fem",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/7912/",
+            "category": "Characters",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Poses",
+                "AMM",
+                "Photos",
+                "Unused"
+            ]
+        },
+        "ZZ - Preem Skin (Using Ava now)": {
+            "taggedName": "ZZ - Preem Skin [Body] (Using Ava now) [Unused]",
+            "officialName": "Preem Skin",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/8157/",
+            "category": "Appearance",
+            "endorsed": "Undecided",
+            "tags": [
+                "Body",
+                "Unused"
+            ]
+        },
+        "ZZ - Respector (Seems dead)": {
+            "taggedName": "ZZ - Respector [CET] [Console] (Seems dead)  [Unused]",
+            "officialName": "Respector",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/1263/",
+            "category": "Utilities",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Console",
+                "Unused"
+            ]
+        },
+        "ZZ - Saeko's Online": {
+            "taggedName": "ZZ - Saeko's Online [Atelier] [Unused]",
+            "officialName": "Saeko's Online - Virtual Atelier",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/8425/",
+            "category": "Armour and Clothing",
+            "endorsed": "Undecided",
+            "tags": [
+                "Atelier",
+                "Unused"
+            ]
+        },
+        "ZZ - SCOFIL - Studio Photoshoot (Not so great)": {
+            "taggedName": "ZZ - SCOFIL - Studio Photoshoot [Poses] [Photos] (Not so great) [Unused]",
+            "officialName": "Studio Photoshoot Pose Pack",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/16248/",
+            "category": "Appearance",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Poses",
+                "Photos",
+                "Unused"
+            ]
+        },
+        "ZZ - Stylishly Online": {
+            "taggedName": "ZZ - Stylishly Online [Atelier] [Unused]",
+            "officialName": "Stylishly Online - Virtual Atelier",
+            "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/8421/",
+            "category": "Armour and Clothing",
+            "endorsed": "Undecided",
+            "tags": [
+                "Atelier",
+                "Unused"
             ]
         }
     }

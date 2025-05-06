@@ -3,8 +3,8 @@
 These are all tags used to describe mods in Vortex for Cyberpunk 2077,
 according to the mods used in a local Vortex database backup.
 
-Generation time: 2025-05-05 22:14:07  
-Vortex database update time: 2025-05-05 21:34:10
+Generation time: 2025-05-06 08:34:52  
+Vortex database update time: 2025-05-06 08:26:15
 
 - [AMM](#amm---appearance-menu-mod)
 - [ArchiveXL](#archivexl)
@@ -14,31 +14,32 @@ Vortex database update time: 2025-05-05 21:34:10
 - [BrowserExt](#browserext---browser-extension)
 - [CarDealer](#cardealer---virtual-car-dealer)
 - [CET](#cet---cyber-engine-tweaks)
-- [Choose](#choose)
 - [ChooseArchive](#choosearchive)
-- [Codeware](#codeware---codeware)
+- [Codeware](#codeware)
+- [Console](#console)
 - [CookedApps](#cookedapps---cooked-apps-nulled)
-- [Core](#core)
-- [Core2](#core2)
-- [Core3](#core3)
+- [Core](#core---core-mods)
+- [Core2](#core2---essential-mods)
+- [Core3](#core3---important-mods)
 - [CPAL](#cpal---community-palette-project)
 - [CPMDB](#cpmdb---cyberpunk-clothing-mod-database)
+- [CustomMod](#custommod)
 - [EQEX](#eqex---equipment-ex)
 - [FallbackInstaller](#fallbackinstaller)
 - [GarmentSupport](#garmentsupport)
 - [Hair](#hair)
-- [HiRes](#hires)
+- [HiRes](#hires---high-resolution-textures)
 - [ItemCodes](#itemcodes)
 - [MaleV](#malev)
-- [ManualDL](#manualdl)
+- [ManualDL](#manualdl---manual-download)
 - [MatEX](#matex---multi-material-extender)
 - [MIBL](#mibl---microblend-resource)
-- [ModSettings](#modsettings---mod-settings)
+- [ModSettings](#modsettings)
 - [MPTL](#mptl---military-palette-texture-library)
 - [NativeSettings](#nativesettings---native-settings-ui)
 - [NativeUI](#nativeui)
 - [NEW](#new)
-- [NoPaperBags](#nopaperbags---no-paper-bags)
+- [NoPaperBags](#nopaperbags)
 - [NPC](#npc)
 - [Photos](#photos)
 - [PMU](#pmu---photo-mode-unlocker)
@@ -47,10 +48,13 @@ Vortex database update time: 2025-05-05 21:34:10
 - [ReadNotes](#readnotes)
 - [Red4Ext](#red4ext---redscript-4-extender)
 - [RedScript](#redscript---red-engine-scripting-language)
+- [Redscript](#redscript)
 - [Store](#store)
 - [TexOverride](#texoverride---texture-override)
-- [TweakXL](#tweakxl---tweakxl)
-- [UniqueEyes](#uniqueeyes---unique-eyes)
+- [TweakXL](#tweakxl)
+- [UniqueEyes](#uniqueeyes)
+- [Unused](#unused)
+- [UnusedTemp](#unusedtemp---unused-temporarily)
 - [Vanilla](#vanilla)
 
 ## AMM - Appearance Menu Mod
@@ -61,6 +65,7 @@ This tag is related to a mod. [Mod homepage](https://www.nexusmods.com/cyberpunk
 - [ELF - Pose Pack - The Archive - PM](https://www.nexusmods.com/cyberpunk2077/mods/16389/)
 - [Fronky's Awkwardia](https://www.nexusmods.com/cyberpunk2077/mods/14671/)
 - [Glowy Mai - With orange rims](https://www.nexusmods.com/cyberpunk2077/mods/3869/)
+- [ZZ - Photomode Facial Expression Pack (Too many!)](https://www.nexusmods.com/cyberpunk2077/mods/7912/)
 
 ## ArchiveXL
 
@@ -390,6 +395,15 @@ This tag is related to a mod. [Mod homepage](https://www.nexusmods.com/cyberpunk
 - [VV0LFDEN - Basic Tees - Fem (Vanilla)](https://www.nexusmods.com/cyberpunk2077/mods/11309/)
 - [VV0LFDEN - Crowns - Fem Masc - AXL Addition](https://www.nexusmods.com/cyberpunk2077/mods/8968/)
 - [VV0LFDEN - Zip-Up Dress](https://www.nexusmods.com/cyberpunk2077/mods/13758/)
+- [ZZ - 2nd Amendment Online](https://www.nexusmods.com/cyberpunk2077/mods/8372/)
+- [ZZ - All-in-One Jinguji Custom Atelier (Abandoned & Problematic)](https://www.nexusmods.com/cyberpunk2077/mods/2792/)
+- [ZZ - Avante Online v1.0](https://www.nexusmods.com/cyberpunk2077/mods/8428/)
+- [ZZ - Ded-Zed Online](https://www.nexusmods.com/cyberpunk2077/mods/8427/)
+- [ZZ - Hyst - Vanilla body - Celeb Dress XL (Better version by MONSTERaider)](https://www.nexusmods.com/cyberpunk2077/mods/5874/)
+- [ZZ - Jinguji Personal Shopping Service - Full Version (Untested)](https://www.nexusmods.com/cyberpunk2077/mods/8318/)
+- [ZZ - NC Fashion - Arasaka Sports Wear (Newer reworked version instead)](https://www.nexusmods.com/cyberpunk2077/mods/4664/)
+- [ZZ - Saeko's Online](https://www.nexusmods.com/cyberpunk2077/mods/8425/)
+- [ZZ - Stylishly Online](https://www.nexusmods.com/cyberpunk2077/mods/8421/)
 
 ## BetterClothing
 
@@ -419,6 +433,9 @@ Body-related mods to improve the skeleton, textures and more.
 - [Body - VTK Vanilla HD Body for FemV - Body](https://www.nexusmods.com/cyberpunk2077/mods/7054/)
 - [Body - VTK Vanilla HD Body for FemV - Head](https://www.nexusmods.com/cyberpunk2077/mods/7054/)
 - [Preem Hair](https://www.nexusmods.com/cyberpunk2077/mods/8223/)
+- [ZZ - Koralina's 4k Complexion 006 - just freckles (Newer better version available)](https://www.nexusmods.com/cyberpunk2077/mods/2241/)
+- [ZZ - Koralina's 4k Complexion Natural Freckled Skin (Using Ava now)](https://www.nexusmods.com/cyberpunk2077/mods/2531/)
+- [ZZ - Preem Skin (Using Ava now)](https://www.nexusmods.com/cyberpunk2077/mods/8157/)
 
 ## BrowserExt - Browser Extension
 
@@ -440,18 +457,15 @@ This tag is related to a mod. [Mod homepage](https://www.nexusmods.com/cyberpunk
 - [Mercedes One AMG](https://www.nexusmods.com/cyberpunk2077/mods/13502/)
 - [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454/)
 
-## Choose
-
-- [Wingdeer Hair - SHORTY PACK - 1, 30, 35](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
-
 ## ChooseArchive
 
-This mod requires you to choose one of the `.archive` files after
+These mods require you to choose one of the `.archive` files after
 installing it to choose the variant to use.
 
 - [Unique Eyes - Core](https://www.nexusmods.com/cyberpunk2077/mods/1937/)
+- [ZY - Wingdeer Hair - SHORTY PACK - 1, 30, 35](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
 
-## Codeware - Codeware
+## Codeware
 
 This tag is related to a mod. [Mod homepage](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 
@@ -459,6 +473,15 @@ This tag is related to a mod. [Mod homepage](https://www.nexusmods.com/cyberpunk
 - [PhotoMode-EX](https://www.nexusmods.com/cyberpunk2077/mods/18839/)
 - [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987/)
 - [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454/)
+- [ZY - Appearance Change Unlocker (Try again for 2.2)](https://www.nexusmods.com/cyberpunk2077/mods/3850/)
+- [ZZ - Kiroshi Crowd Scanner (Does not add much)](https://www.nexusmods.com/cyberpunk2077/mods/1654/)
+
+## Console
+
+These mods add functionality to the CET console, or are primarily
+used through the console.
+
+- [ZZ - Respector (Seems dead)](https://www.nexusmods.com/cyberpunk2077/mods/1263/)
 
 ## CookedApps - Cooked Apps Nulled
 
@@ -468,7 +491,7 @@ This tag is related to a mod. [Mod homepage](https://www.nexusmods.com/cyberpunk
 - [High Res Food - Soda - Real Chromanticore](https://www.nexusmods.com/cyberpunk2077/mods/8407/)
 - [High Res Food - Soda - Real Nicola](https://www.nexusmods.com/cyberpunk2077/mods/8491/)
 
-## Core
+## Core - Core mods
 
 Absolute minimum core mods needed by other mods to work.
 
@@ -485,9 +508,9 @@ Absolute minimum core mods needed by other mods to work.
 - [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511/)
 - [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197/)
 
-## Core2
+## Core2 - Essential mods
 
-Most important mods that you do not want to play without.
+Essential mods that you do not want to play without.
 
 - [Custom Level Cap](https://www.nexusmods.com/cyberpunk2077/mods/2909/)
 - [Deceptious Quest Core](https://www.nexusmods.com/cyberpunk2077/mods/7831/)
@@ -498,8 +521,9 @@ Most important mods that you do not want to play without.
 - [The Community Palette Project](https://www.nexusmods.com/cyberpunk2077/mods/10437/)
 - [Unequip Mods Mod](https://www.nexusmods.com/cyberpunk2077/mods/2358/)
 - [Wardrobe Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/5145/)
+- [ZY - Appearance Change Unlocker (Try again for 2.2)](https://www.nexusmods.com/cyberpunk2077/mods/3850/)
 
-## Core3
+## Core3 - Important mods
 
 Important mods, but that you can live without.
 
@@ -729,6 +753,12 @@ This tag is related to a mod. [Mod homepage](https://aeonoftime.com/?article=202
 - [VV0LFDEN - Zip-Up Dress](https://www.nexusmods.com/cyberpunk2077/mods/13758/)
 - [Yevgeniys - Bicep Biomonitor](https://www.nexusmods.com/cyberpunk2077/mods/16545/)
 
+## CustomMod
+
+Custom mods that have no online source.
+
+- Wingdeer Hair Selection v21
+
 ## EQEX - Equipment-EX
 
 This tag is related to a mod. [Mod homepage](https://www.nexusmods.com/cyberpunk2077/mods/6945)
@@ -753,19 +783,20 @@ The items added by this mod come with garment support, which enables automatic t
 Hair-related mods to improve and/or add hair, textures and more.
 
 - [Preem Hair](https://www.nexusmods.com/cyberpunk2077/mods/8223/)
-- [Wingdeer Hair - Commissioner - PHYSICS](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
-- [Wingdeer Hair - Daniels - PHYSICS](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
-- [Wingdeer Hair - Emma3 - PHYSICS](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
-- [Wingdeer Hair - Lee - PHYSICS](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
-- [Wingdeer Hair - Manavortex](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
-- [Wingdeer Hair - MID LENGTH PACK](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
-- [Wingdeer Hair - SHORTY PACK - 1, 30, 35](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
-- [Wingdeer Hair - SORCERESS PACK 25-37](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
-- [Wingdeer Hair - TARNISHED PACK](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
-- [Wingdeer Hair - TIDE UP PACK](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
-- [Wingdeer Hair - Valeria - 31 - PHYSICS](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- Wingdeer Hair Selection v21
+- [ZY - Wingdeer Hair - Commissioner - PHYSICS](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- [ZY - Wingdeer Hair - Daniels - PHYSICS](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- [ZY - Wingdeer Hair - Emma3 - PHYSICS](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- [ZY - Wingdeer Hair - Lee - PHYSICS](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- [ZY - Wingdeer Hair - Manavortex](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- [ZY - Wingdeer Hair - MID LENGTH PACK](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- [ZY - Wingdeer Hair - SHORTY PACK - 1, 30, 35](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- [ZY - Wingdeer Hair - SORCERESS PACK 25-37](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- [ZY - Wingdeer Hair - TARNISHED PACK](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- [ZY - Wingdeer Hair - TIDE UP PACK](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- [ZY - Wingdeer Hair - Valeria - 31 - PHYSICS](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
 
-## HiRes
+## HiRes - High Resolution Textures
 
 High resolution textures for different aspects of the game, from environment textures to NPCs.
 
@@ -789,6 +820,7 @@ High resolution textures for different aspects of the game, from environment tex
 - [High Res NPCs - Saul Bright - Saul 4K - REDMod](https://www.nexusmods.com/cyberpunk2077/mods/7929/)
 - [Improved Vegetation LODs](https://www.nexusmods.com/cyberpunk2077/mods/3627/)
 - [Trees And Vegetation](https://www.nexusmods.com/cyberpunk2077/mods/6093/)
+- [ZZ - Koralina's 4k Complexion Natural Freckled Skin (Using Ava now)](https://www.nexusmods.com/cyberpunk2077/mods/2531/)
 
 ## MaleV
 
@@ -797,7 +829,7 @@ This mod is compatible with male characters.
 - [Body - Atlas Male Body](https://www.nexusmods.com/cyberpunk2077/mods/8766/)
 - [NC Fashion - Jin Kazam Tekken Oufit](https://www.nexusmods.com/cyberpunk2077/mods/15049/)
 
-## ManualDL
+## ManualDL - Manual Download
 
 This mod requires you to download the files manually - the mod manager download option is not available.
 
@@ -834,6 +866,7 @@ This mod requires you to download the files manually - the mod manager download 
 - [NC Fashion - XRX Leather Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7661/)
 - [NC Fashion - XRX Onepiece Suit](https://www.nexusmods.com/cyberpunk2077/mods/6621/)
 - [NC Fashion - XRX Puffer Jacket](https://www.nexusmods.com/cyberpunk2077/mods/7722/)
+- [ZZ - NC Fashion - Arasaka Sports Wear (Newer reworked version instead)](https://www.nexusmods.com/cyberpunk2077/mods/4664/)
 
 ## MatEX - Multi-Material extender
 
@@ -850,7 +883,7 @@ This tag is related to a mod. [Mod homepage](https://www.nexusmods.com/cyberpunk
 - [Breezy - Chic Skirt - MaleV FemV](https://www.nexusmods.com/cyberpunk2077/mods/16149/)
 - [Microblend Resource](https://www.nexusmods.com/cyberpunk2077/mods/4571/)
 
-## ModSettings - Mod Settings
+## ModSettings
 
 This tag is related to a mod. [Mod homepage](https://www.nexusmods.com/cyberpunk2077/mods/4885)
 
@@ -910,7 +943,7 @@ Newly added mod that has not been tested in the game yet.
 - [Veegee - VermillionForest TECHWEAR SET](https://www.nexusmods.com/cyberpunk2077/mods/15532/)
 - [Voidwear - Rogue's Gloves (FemV)](https://www.nexusmods.com/cyberpunk2077/mods/14573/)
 
-## NoPaperBags - No Paper Bags
+## NoPaperBags
 
 This tag is related to a mod. [Mod homepage](https://www.nexusmods.com/cyberpunk2077/mods/8387)
 
@@ -941,6 +974,10 @@ Mods around the photo mode, from enhancements to pose packs and more.
 - [PMU - Zwei Custom Poses - Core Pack](https://www.nexusmods.com/cyberpunk2077/mods/7165/)
 - [PMU - Zwei Custom Poses - Fashion Set](https://www.nexusmods.com/cyberpunk2077/mods/7156/)
 - [PMU - Zwei Sitting Set - FemV](https://www.nexusmods.com/cyberpunk2077/mods/8361/)
+- [ZY - Portrait Enhancer for Photo Mode (Not needed right now)](https://www.nexusmods.com/cyberpunk2077/mods/8237/)
+- [ZZ - CharLi - Character Lighting Suite (AMM is enough)](https://www.nexusmods.com/cyberpunk2077/mods/8176/)
+- [ZZ - Photomode Facial Expression Pack (Too many!)](https://www.nexusmods.com/cyberpunk2077/mods/7912/)
+- [ZZ - SCOFIL - Studio Photoshoot (Not so great)](https://www.nexusmods.com/cyberpunk2077/mods/16248/)
 
 ## PMU - Photo Mode Unlocker
 
@@ -957,6 +994,7 @@ This tag is related to a mod. [Mod homepage](https://www.nexusmods.com/cyberpunk
 - [PMU - Zwei Custom Poses - Core Pack](https://www.nexusmods.com/cyberpunk2077/mods/7165/)
 - [PMU - Zwei Custom Poses - Fashion Set](https://www.nexusmods.com/cyberpunk2077/mods/7156/)
 - [PMU - Zwei Sitting Set - FemV](https://www.nexusmods.com/cyberpunk2077/mods/8361/)
+- [ZZ - Pepoji PosePack for FemV (Not good)](https://www.nexusmods.com/cyberpunk2077/mods/13359/)
 
 ## Poses
 
@@ -972,6 +1010,9 @@ Mods that add pose packs for the photo mode or to use with AMM.
 - [PMU - Zwei Custom Poses - Core Pack](https://www.nexusmods.com/cyberpunk2077/mods/7165/)
 - [PMU - Zwei Custom Poses - Fashion Set](https://www.nexusmods.com/cyberpunk2077/mods/7156/)
 - [PMU - Zwei Sitting Set - FemV](https://www.nexusmods.com/cyberpunk2077/mods/8361/)
+- [ZZ - Pepoji PosePack for FemV (Not good)](https://www.nexusmods.com/cyberpunk2077/mods/13359/)
+- [ZZ - Photomode Facial Expression Pack (Too many!)](https://www.nexusmods.com/cyberpunk2077/mods/7912/)
+- [ZZ - SCOFIL - Studio Photoshoot (Not so great)](https://www.nexusmods.com/cyberpunk2077/mods/16248/)
 
 ## Quest
 
@@ -1000,6 +1041,7 @@ This tag is related to a mod. [Mod homepage](https://www.nexusmods.com/cyberpunk
 - [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197/)
 - [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987/)
 - [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454/)
+- [ZZ - Kiroshi Crowd Scanner (Does not add much)](https://www.nexusmods.com/cyberpunk2077/mods/1654/)
 
 ## RedScript - Red engine scripting language
 
@@ -1014,6 +1056,12 @@ This tag is related to a mod. [Mod homepage](https://www.nexusmods.com/cyberpunk
 - [Unequip Mods Mod](https://www.nexusmods.com/cyberpunk2077/mods/2358/)
 - [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987/)
 - [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454/)
+- [ZY - Appearance Change Unlocker (Try again for 2.2)](https://www.nexusmods.com/cyberpunk2077/mods/3850/)
+- [ZZ - Flib's UI Improvements (Not compat. with Missing Persons)](https://www.nexusmods.com/cyberpunk2077/mods/2729/)
+
+## Redscript
+
+- [ZZ - Kiroshi Crowd Scanner (Does not add much)](https://www.nexusmods.com/cyberpunk2077/mods/1654/)
 
 ## Store
 
@@ -1052,6 +1100,7 @@ These are virtual atelier mods that add clothing items.
 - [Veegee - 0 - Shop](https://www.nexusmods.com/cyberpunk2077/mods/8183/)
 - [Veegee - 0- Shop 2](https://www.nexusmods.com/cyberpunk2077/mods/13870/)
 - [VV0LFDEN - 0 - Store](https://www.nexusmods.com/cyberpunk2077/mods/6572/)
+- [ZZ - All-in-One Jinguji Custom Atelier (Abandoned & Problematic)](https://www.nexusmods.com/cyberpunk2077/mods/2792/)
 
 ## TexOverride - Texture Override
 
@@ -1059,7 +1108,7 @@ This tag is related to a mod. [Mod homepage](https://www.nexusmods.com/cyberpunk
 
 - [Material and Texture Override](https://www.nexusmods.com/cyberpunk2077/mods/5266/)
 
-## TweakXL - TweakXL
+## TweakXL
 
 This tag is related to a mod. [Mod homepage](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
@@ -1069,12 +1118,58 @@ This tag is related to a mod. [Mod homepage](https://www.nexusmods.com/cyberpunk
 - [PMU - Zwei Custom Poses - Fashion Set](https://www.nexusmods.com/cyberpunk2077/mods/7156/)
 - [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454/)
 
-## UniqueEyes - Unique Eyes
+## UniqueEyes
 
 This tag is related to a mod. [Mod homepage](https://nexusmods.com/cyberpunk2077/mods/1937)
 
 - [Kala's Eyes Standalone](https://www.nexusmods.com/cyberpunk2077/mods/3242/)
 - [Unique Eyes - Core](https://www.nexusmods.com/cyberpunk2077/mods/1937/)
+
+## Unused
+
+These mods are unused for a variety of reasons,
+from being broken to not matching expected quality standards.
+
+- [ZZ - 2nd Amendment Online](https://www.nexusmods.com/cyberpunk2077/mods/8372/)
+- [ZZ - All-in-One Jinguji Custom Atelier (Abandoned & Problematic)](https://www.nexusmods.com/cyberpunk2077/mods/2792/)
+- [ZZ - Avante Online v1.0](https://www.nexusmods.com/cyberpunk2077/mods/8428/)
+- [ZZ - Better Minimap (Bug: No pathing to target)](https://www.nexusmods.com/cyberpunk2077/mods/634/)
+- [ZZ - CharLi - Character Lighting Suite (AMM is enough)](https://www.nexusmods.com/cyberpunk2077/mods/8176/)
+- [ZZ - Ded-Zed Online](https://www.nexusmods.com/cyberpunk2077/mods/8427/)
+- [ZZ - Flib's UI Improvements (Not compat. with Missing Persons)](https://www.nexusmods.com/cyberpunk2077/mods/2729/)
+- [ZZ - Hacking Gets Tedious 2.1 - Redscript (Compile failure)](https://www.nexusmods.com/cyberpunk2077/mods/11479/)
+- [ZZ - Hyst - Vanilla body - Celeb Dress XL (Better version by MONSTERaider)](https://www.nexusmods.com/cyberpunk2077/mods/5874/)
+- [ZZ - Jinguji Personal Shopping Service - Full Version (Untested)](https://www.nexusmods.com/cyberpunk2077/mods/8318/)
+- [ZZ - Kiroshi Crowd Scanner (Does not add much)](https://www.nexusmods.com/cyberpunk2077/mods/1654/)
+- [ZZ - Koralina's 4k Complexion 006 - just freckles (Newer better version available)](https://www.nexusmods.com/cyberpunk2077/mods/2241/)
+- [ZZ - Koralina's 4k Complexion Natural Freckled Skin (Using Ava now)](https://www.nexusmods.com/cyberpunk2077/mods/2531/)
+- [ZZ - NC Fashion - Arasaka Sports Wear (Newer reworked version instead)](https://www.nexusmods.com/cyberpunk2077/mods/4664/)
+- [ZZ - Pepoji PosePack for FemV (Not good)](https://www.nexusmods.com/cyberpunk2077/mods/13359/)
+- [ZZ - Photomode Facial Expression Pack (Too many!)](https://www.nexusmods.com/cyberpunk2077/mods/7912/)
+- [ZZ - Preem Skin (Using Ava now)](https://www.nexusmods.com/cyberpunk2077/mods/8157/)
+- [ZZ - Respector (Seems dead)](https://www.nexusmods.com/cyberpunk2077/mods/1263/)
+- [ZZ - Saeko's Online](https://www.nexusmods.com/cyberpunk2077/mods/8425/)
+- [ZZ - SCOFIL - Studio Photoshoot (Not so great)](https://www.nexusmods.com/cyberpunk2077/mods/16248/)
+- [ZZ - Stylishly Online](https://www.nexusmods.com/cyberpunk2077/mods/8421/)
+
+## UnusedTemp - Unused Temporarily
+
+These mods are temporarily unused for a variety of
+reasons. For example, because they are waiting for an update.
+
+- [ZY - Appearance Change Unlocker (Try again for 2.2)](https://www.nexusmods.com/cyberpunk2077/mods/3850/)
+- [ZY - Portrait Enhancer for Photo Mode (Not needed right now)](https://www.nexusmods.com/cyberpunk2077/mods/8237/)
+- [ZY - Wingdeer Hair - Commissioner - PHYSICS](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- [ZY - Wingdeer Hair - Daniels - PHYSICS](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- [ZY - Wingdeer Hair - Emma3 - PHYSICS](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- [ZY - Wingdeer Hair - Lee - PHYSICS](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- [ZY - Wingdeer Hair - Manavortex](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- [ZY - Wingdeer Hair - MID LENGTH PACK](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- [ZY - Wingdeer Hair - SHORTY PACK - 1, 30, 35](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- [ZY - Wingdeer Hair - SORCERESS PACK 25-37](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- [ZY - Wingdeer Hair - TARNISHED PACK](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- [ZY - Wingdeer Hair - TIDE UP PACK](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
+- [ZY - Wingdeer Hair - Valeria - 31 - PHYSICS](https://www.nexusmods.com/cyberpunk2077/mods/6072/)
 
 ## Vanilla
 
@@ -1117,4 +1212,5 @@ This mod is compatible with the vanilla game.
 - [Trees And Vegetation](https://www.nexusmods.com/cyberpunk2077/mods/6093/)
 - [Unique Eyes - Core](https://www.nexusmods.com/cyberpunk2077/mods/1937/)
 - [You look lonely... - Joi Sky Advert](https://www.nexusmods.com/cyberpunk2077/mods/3837/)
+- [ZZ - Koralina's 4k Complexion Natural Freckled Skin (Using Ava now)](https://www.nexusmods.com/cyberpunk2077/mods/2531/)
 
